@@ -5,6 +5,8 @@ Para a definição dos horários de reunião do projeto, utilizamos a ferramenta
 ### Heatmap de Disponibilidade
 ![Heatmap de Disponibilidade](./utils/When2meet.png) 
 
+Elaborado pelos autores com auxílio da plataforma When2meet (2026). Disponível em: <https://www.when2meet.com/?36034800-Slq4M>. Acesso em: 08 abr. 2026.
+
 *Obs: Quanto mais escuro o verde, maior o número de membros disponíveis.*
 
 ---
