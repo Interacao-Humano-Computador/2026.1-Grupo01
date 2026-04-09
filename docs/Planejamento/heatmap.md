@@ -3,7 +3,7 @@
 Para a definição dos horários de reunião do projeto, utilizamos a ferramenta **When2Meet** para coletar a disponibilidade de todos os membros. Abaixo está o Heatmap consolidado e a análise dos melhores horários.
 
 ### Heatmap de Disponibilidade
-![Heatmap de Disponibilidade](./utils/When2meet.png) 
+![Heatmap de Disponibilidade](../images/planejamento/When2meet.png) 
 
 Elaborado pelos autores com auxílio da plataforma When2meet (2026). Disponível em: <https://www.when2meet.com/?36034800-Slq4M>. Acesso em: 08 abr. 2026.
 
