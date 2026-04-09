@@ -1,0 +1,49 @@
+site_name: IHC - Site do CAV
+site_url: https://Interação-Humano-Computador.github.io/2026.1-Grupo01/
+repo_url: https://github.com/Interacao-Humano-Computador/2026.1-Grupo01
+repo_name: GitHub
+
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.tabs
+    - navigation.top
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo escuro
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo claro
+  logo: images/logo_cac.jpeg
+  favicon: images/E-cac_icone.png
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: false
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+
+nav:
+  - Início: index.md
+
+  - Planejamento: 
+    - Heatmap:    Planejamento/heatmap.md
+    - sites selecionados: Planejamento/apps_selecionados.md
+    - site Escolhido: Planejamento/site_escolhido.md
+    - Cronograma: Planejamento/cronograma.md
+    - Ferramentas: Planejamento/ferramentas.md
+    - Processo de design: Planejamento/Processo_de_design.md

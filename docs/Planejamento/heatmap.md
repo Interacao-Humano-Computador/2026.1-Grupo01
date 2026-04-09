@@ -19,3 +19,7 @@ Com base no Heatmap, os períodos com maior de disponibilidade são:
 | :--- | :--- | :--- |
 | **Terça / Quarta** | 20:00 - 22:00 | **Ideal** |
 | **Segunda / Quinta** | 13:00 - 15:30 | **Bom** |
+
+|  Data | Tarefa realizada | autor  | Revisor|
+| ------|------------------|--------|--------|
+|09/04/2026| Criação do documento e inicialização do mesmo | [Yasmin dayhell](https://github.com/YasminDayrell)| [Heyttor Augusto](https://github.com/H3ytt0r62) |

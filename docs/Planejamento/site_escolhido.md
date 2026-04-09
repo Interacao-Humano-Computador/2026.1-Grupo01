@@ -1,7 +1,3 @@
-# Projeto de IHC - Grupo 1  
-**Professor:** André Barros  
-
----
 
 ## Listas de Sites Selecionados
 
@@ -12,6 +8,9 @@ Os sites selecionados pelo grupo foram os seguintes:
 - e-CAC, da Receita Federal  
 - Serviço de Vacinação da Secretaria de Saúde do Distrito Federal (SES-DF)  
 - Secretaria de Educação do Distrito Federal (SEE-DF)  
+- Cartorio da cidade de Valparaíso de Goías (GO)
+
+Para entender melhor sobre os sites cogitados pelo grupo veja o item [sites selecionados](../Planejamento/apps_selecionados.md)
 
 ---
 
@@ -29,7 +28,7 @@ A verificação foi feita seguindo as Heurísticas mostradas no documento de **M
 
 Foto: 
 
-![Heurísticas](imagens/heuristicas.png)
+![Heurísticas](../images/planejamento/site%20escolhido/heuristicas.png)
 
 
 Fonte:  
@@ -59,7 +58,7 @@ Isso foi verificado no site “Reclame Aqui”, conforme a imagem abaixo:
 
 Foto:  
 
-![Heurísticas](imagens/reclamacao.png)
+![Reclamações](../images/planejamento/site%20escolhido/reclamacao.png)
 
 Fonte:  
 Securly - Geolocation sharing.  
@@ -96,3 +95,9 @@ Isso também viola a heurística de **PRODUTIVIDADE**, pois a baixa produtividad
 2. Securly - Geolocation sharing.  
    Disponível em: <https://www.reclameaqui.com.br/receita-federal/portal-e-cac_V4NwsfQBclzOJu_P/>.  
    Acesso em: 9 abr. 2026  
+
+## Versionamento 
+
+|  Data | Tarefa realizada | autor  | Revisor|
+| ------|------------------|--------|--------|
+|09/04/2026| Criação do documento e inicialização do mesmo | [João morais](https://github.com/Blazemorales)| [Heyttor Augusto](https://github.com/H3ytt0r62) |

@@ -1,0 +1,67 @@
+# CAC
+<p style="text-align: center;"><img width="50%" alt="image" src="images/logo_cac.jpeg"></p>
+
+## Introdução  
+Este repositório contém os materiais e estudos desenvolvidos na disciplina de **Interação humano Computador** do curso de **Engenharia de Software da Universidade de Brasília (FCTE/UnB)**.  
+O objetivo é aprofundar conceitos, métodos e técnicas interação humano-computador ao **Portal E-CAC**, o site oficial oficial da Rceita Federal que possibilita aos usuários consultem pendências, regularizem CPF/CNPJ, acompanhem a declaração do Imposto de Renda, emitam DARFs, parcelem dívidas, cadastrem procurações e assinem documentos digitalmente.
+
+## Sobre o Portal E-CAC
+
+O **E-CAC** é uma plataforma digital desenvolvida para que pessoas juridicas e físicas, que permite aos usuarios  **Autorizações de acesso em serviços da receita federal** e tambem cadastros em diversos serviços **CAEPF, CNO,CNPJ, CPF entre outros**.  
+Por meio do site, os usuários podem, por do login em sua **conta GOV** e acessar informações detalhadas sobre suas situações com a receita federal.  
+
+##  Equipe  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/giovannabrito19">
+        <img src="https://avatars.githubusercontent.com/u/175221432?v=4" width="100px" alt="Giovanna aguiar"/>
+        <br />
+        <sub><b>Giovanna Aguiar</b></sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/H3ytt0r62">
+        <img src="https://github.com/H3ytt0r62.png" width="100px" alt="Heyttor Augusto"/>
+        <br />
+        <sub><b>Heyttor Augusto</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Blazemorales">
+        <img src="https://avatars.githubusercontent.com/u/167719658?v=4" width="100px" alt="joão morais"/>
+        <br />
+        <sub><b>João morais</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucaszg-g">
+        <img src="https://avatars.githubusercontent.com/u/135540298?v=4" width="100px" alt="Lucas gabriel"/>
+        <br />
+        <sub><b>Lucas Gabriel   </b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Romm-0">
+        <img src="https://avatars.githubusercontent.com/u/164571475?v=4" width="100px" alt="Rafael oliveira"/>
+        <br />
+        <sub><b>Rafael Oliveira</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thgomxs">
+        <img src="https://github.com/thgomxs.png" width="100px" alt="Thiago Gomes"/>
+        <br />
+        <sub><b>Thiago Gomes</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YasminDayrell">
+        <img src="https://github.com/YasminDayrell.png" width="100px" alt="Yasmin Dayrell"/>
+        <br />
+        <sub><b>Yasmin Dayrell</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
