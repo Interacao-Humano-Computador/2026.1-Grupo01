@@ -20,7 +20,7 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Preparar apresentação etapa 1 | Remoto | Início: 11/04 <br>Fim: 11/04 | Equipe | Início: 12/04 <br>Fim: 12/04 | João |
 | Entrega da apresentação etapa 1 | Aprender3 | Data: 12/04 | - | - | - |
 | Inspeção grupo+1 etapa 1 | Remoto | Início: 12/04 <br>Fim: 13/04 | Equipe | Início: 13/04 <br>Fim: 13/04 | Rafael |
-| Correção pós inspeção | Remoto | Início: 13/04 <br>Fim: 13/04 | Lucas, Heyttor, Rafael | Início: 13/04 <br>Fim: 13/04 | Giovanna, Yasmim |
+| Correção pós inspeção | Remoto | Início: 13/04 <br>Fim: 13/04 | Equipe | Início: 13/04 <br>Fim: 13/04 | Giovanna, Yasmim |
 | Apresentação etapa 1 | Aula | Data: 14/04 | - | - | - |
 | Correções pós apresentação | Remoto | Início: 14/04 <br>Fim: 15/04 | Equipe | Início: 16/04 <br>Fim: 17/04 | Thiago, Rafael |
 
@@ -39,7 +39,7 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Preparar apresentação etapa 2 | Remoto | Início: 02/05 <br>Fim: 03/05 | Equipe | Início: 03/05 <br>Fim: 03/05 | Lucas |
 | Entrega da apresentação etapa 2 | Aprender3 | Data: 03/05 | - | - | - |
 | Inspeção grupo+1 etapa 2 | Remoto | Início: 03/05 <br>Fim: 04/05 | Equipe | Início: 04/05 <br>Fim: 04/05 | Yasmim |
-| Correção pós inspeção | Remoto | Início: 04/05 <br>Fim: 04/05 | João, Thiago, Giovanna | Início: 04/05 <br>Fim: 04/05 | Heyttor, Rafael |
+| Correção pós inspeção | Remoto | Início: 04/05 <br>Fim: 04/05 | Equipe | Início: 04/05 <br>Fim: 04/05 | Heyttor, Rafael |
 | Apresentação etapa 2 | Aula | Data: 05/05 | - | - | - |
 | Correções pós apresentação | Remoto | Início: 05/05 <br>Fim: 06/05 | Equipe | Início: 07/05 <br>Fim: 07/05 | Giovanna, Lucas |
 
@@ -54,12 +54,13 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Criação do guia de estilo | Figma | Início: 04/05 <br>Fim: 10/05 | Lucas, Heyttor | Início: 11/05 <br>Fim: 11/05 | Rafael, João |
 | Definição dos princípios do projeto | Documento | Início: 05/05 <br>Fim: 09/05 | Rafael, João | Início: 10/05 <br>Fim: 10/05 | Yasmim, Thiago |
 | Definição das metas de usabilidade | Documento | Início: 05/05 <br>Fim: 09/05 | Yasmim, Thiago | Início: 10/05 <br>Fim: 10/05 | Giovanna, Lucas |
+| Aprimorar github page | Github | Início: 05/05 <br>Fim: 08/05 | - | Início: 09/05 <br>Fim: 09/05 | Equipe |
 | Características da plataforma | Documento | Início: 06/05 <br>Fim: 09/05 | Giovanna, Lucas | Início: 10/05 <br>Fim: 10/05 | Heyttor |
 | Gravação do vídeo | OBS | Início: 11/05 <br>Fim: 11/05 | Equipe | Início: 11/05 <br>Fim: 11/05 | Equipe |
 | Preparar apresentação etapa 3 | Remoto | Início: 11/05 <br>Fim: 12/05 | Equipe | Início: 12/05 <br>Fim: 12/05 | - |
 | Entrega da apresentação etapa 3 | Aprender3 | Data: 12/05 | - | - | - |
 | Inspeção grupo+1 etapa 3 | Remoto | Início: 12/05 <br>Fim: 13/05 | Equipe | Início: 13/05 <br>Fim: 13/05 | - |
-| Correção pós inspeção | Remoto | Início: 13/05 <br>Fim: 13/05 | - | Início: 13/05 <br>Fim: 13/05 | - |
+| Correção pós inspeção | Remoto | Início: 13/05 <br>Fim: 13/05 | Equipe | Início: 13/05 <br>Fim: 13/05 | - |
 | Apresentação etapa 3 | Aula | Data: 14/05 | - | - | - |
 | Correções pós apresentação | Remoto | Início: 14/05 <br>Fim: 15/05 | Equipe | Início: 16/05 <br>Fim: 16/05 | - |
 
@@ -79,7 +80,7 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Preparar apresentação etapa 4 | Remoto | Início: 18/05 <br>Fim: 19/05 | Equipe | Início: 19/05 <br>Fim: 19/05 | - |
 | Entrega da apresentação etapa 4 | Aprender3 | Data: 19/05 | - | - | - |
 | Inspeção grupo+1 etapa 4 | Remoto | Início: 19/05 <br>Fim: 20/05 | Equipe | Início: 20/05 <br>Fim: 20/05 | - |
-| Correção pós inspeção | Remoto | Início: 20/05 <br>Fim: 20/05 | - | Início: 20/05 <br>Fim: 20/05 | - |
+| Correção pós inspeção | Remoto | Início: 20/05 <br>Fim: 20/05 | Equipe | Início: 20/05 <br>Fim: 20/05 | - |
 | Apresentação etapa 4 | Aula | Data: 21/05 | - | - | - |
 | Correções pós apresentação | Remoto | Início: 21/05 <br>Fim: 22/05 | Equipe | Início: 23/05 <br>Fim: 23/05 | - |
 
@@ -99,7 +100,7 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Preparar apresentação etapa 5 | Remoto | Início: 30/05 <br>Fim: 31/05 | Equipe | Início: 31/05 <br>Fim: 31/05 | - |
 | Entrega da apresentação etapa 5 | Aprender3 | Data: 31/05 | - | - | - |
 | Inspeção grupo+1 etapa 5 | Remoto | Início: 31/05 <br>Fim: 01/06 | Equipe | Início: 01/06 <br>Fim: 01/06 | - |
-| Correção pós inspeção | Remoto | Início: 01/06 <br>Fim: 01/06 | - | Início: 01/06 <br>Fim: 01/06 | - |
+| Correção pós inspeção | Remoto | Início: 01/06 <br>Fim: 01/06 | Equipe | Início: 01/06 <br>Fim: 01/06 | - |
 | Apresentação etapa 5 | Aula | Data: 02/06 | - | - | - |
 | Correções pós apresentação | Remoto | Início: 02/06 <br>Fim: 03/06 | Equipe | Início: 04/06 <br>Fim: 04/06 | - |
 
@@ -112,9 +113,15 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
 | Relato dos resultados do protótipo de papel | Documento | Início: 01/06 <br>Fim: 04/06 | Heyttor, Thiago | Início: 05/06 <br>Fim: 05/06 | Rafael, João, Yasmim |
-| Planejamento da avaliação do protótipo de alta fidelidade | Figma | Início: 03/06 <br>Fim: 06/06 | Rafael, João, Yasmim | Início: 07/06 <br>Fim: 07/06 | Giovanna, Lucas |
-| Planejamento do relato (alta fidelidade) | Documento | Início: 05/06 <br>Fim: 06/06 | Giovanna, Lucas | Início: 07/06 <br>Fim: 07/06 | Heyttor, Thiago |
-| Gravação do vídeo | Remoto | Início: 07/06 <br>Fim: 07/06 | Giovanna | Início: 07/06 <br>Fim: 07/06 | Equipe |
+| Planejamento da avaliação do protótipo de alta fidelidade | Figma | Início: 03/06 <br>Fim: 05/06 | Rafael, João, Yasmim | Início: 05/06 <br>Fim: 06/06 | Giovanna, Lucas |
+| Planejamento do relato (alta fidelidade) | Documento | Início: 04/06 <br>Fim: 05/06 | Giovanna, Lucas | Início: 05/06 <br>Fim: 06/06 | Heyttor, Thiago |
+| Gravação do vídeo | OBS | Início: 06/06 <br>Fim: 06/06 | Equipe | Início: 07/06 <br>Fim: 07/06 | Equipe |
+| Preparar apresentação etapa 6 | Remoto | Início: 06/06 <br>Fim: 07/06 | Equipe | Início: 07/06 <br>Fim: 07/06 | - |
+| Entrega da apresentação etapa 6 | Aprender3 | Data: 07/06 | - | - | - |
+| Inspeção grupo+1 etapa 6 | Remoto | Início: 07/06 <br>Fim: 08/06 | Equipe | Início: 08/06 <br>Fim: 08/06 | - |
+| Correção pós inspeção | Remoto | Início: 08/06 <br>Fim: 08/06 | Equipe | Início: 08/06 <br>Fim: 08/06 | - |
+| Apresentação etapa 6 | Aula | Data: 09/06 | - | - | - |
+| Correções pós apresentação | Remoto | Início: 09/06 <br>Fim: 10/06 | Equipe | Início: 11/06 <br>Fim: 11/06 | - |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
@@ -124,8 +131,14 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
-| Relato dos resultados do protótipo de alta fidelidade | Figma / Testes | Início: 08/06 <br>Fim: 15/06 | Equipe | Início: 16/06 <br>Fim: 16/06 | Equipe |
-| Gravação do vídeo da apresentação | Remoto | Início: 16/06 <br>Fim: 16/06 | Yasmim | Início: 16/06 <br>Fim: 16/06 | Equipe |
+| Relato dos resultados do protótipo de alta fidelidade | Figma / Testes | Início: 08/06 <br>Fim: 14/06 | Equipe | Início: 14/06 <br>Fim: 14/06 | Equipe |
+| Gravação do vídeo da apresentação | Remoto | Início: 15/06 <br>Fim: 16/06 | Yasmim | Início: 16/06 <br>Fim: 16/06 | Equipe |
+| Preparar apresentação etapa 7 | Remoto | Início: 15/06 <br>Fim: 16/06 | Equipe | Início: 16/06 <br>Fim: 16/06 | - |
+| Entrega da apresentação etapa 7 | Aprender3 | Data: 16/06 | - | - | - |
+| Inspeção grupo+1 etapa 7 | Remoto | Início: 16/06 <br>Fim: 17/06 | Equipe | Início: 17/06 <br>Fim: 17/06 | - |
+| Correção pós inspeção | Remoto | Início: 17/06 <br>Fim: 17/06 | Equipe | Início: 17/06 <br>Fim: 17/06 | - |
+| Apresentação etapa 7 | Aula | Data: 18/06 | - | - | - |
+| Correções pós apresentação | Remoto | Início: 18/06 <br>Fim: 19/06 | Equipe | Início: 20/06 <br>Fim: 20/06 | - |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
@@ -135,8 +148,14 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
-| Verificação final de todos os artefatos | Repositório | Início: 17/06 <br>Fim: 22/06 | Equipe | Início: 23/06 <br>Fim: 23/06 | Equipe |
-| Gravação do vídeo da apresentação | Remoto | Início: 23/06 <br>Fim: 23/06 | Yasmim | Início: 16/06 <br>Fim: 16/06 | Equipe |
+| Verificação de todos os artefatos | Repositório | Início: 17/06 <br>Fim: 21/06 | Equipe | Início: 22/06 <br>Fim: 22/06 | Equipe |
+| Gravação do vídeo da apresentação | OBS | Início: 22/06 <br>Fim: 22/06 | Equipe | Início: 22/06 <br>Fim: 22/06 | Equipe |
+| Preparar apresentação etapa 8 | Remoto | Início: 21/06 <br>Fim: 22/06 | Equipe | Início: 22/06 <br>Fim: 23/06 | - |
+| Entrega da apresentação etapa 8 | Aprender3 | Data: 23/06 | - | - | - |
+| Inspeção grupo+1 etapa 8 | Remoto | Início: 23/06 <br>Fim: 24/06 | Equipe | Início: 24/06 <br>Fim: 24/06 | - |
+| Correção pós inspeção | Remoto | Início: 24/06 <br>Fim: 24/06 | Equipe | Início: 24/06 <br>Fim: 24/06 | - |
+| Apresentação etapa 8 | Aula | Data: 25/06 | - | - | - |
+| Correções pós apresentação | Remoto | Início: 25/06 <br>Fim: 26/06 | Equipe | Início: 27/06 <br>Fim: 27/06 | - |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
@@ -146,13 +165,19 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
-| Preparação da apresentação final | Online | Início: 24/06 <br>Fim: 30/06 | Equipe | Início: 01/07 <br>Fim: 01/07 | Equipe |
-| Gravação do vídeo final | Remoto | Início: 01/07 <br>Fim: 01/07 | Heyttor | Início: 01/07 <br>Fim: 01/07 | Equipe |
+| Preparação da apresentação final | Remoto | Início: 24/06 <br>Fim: 28/06 | Equipe | Início: 29/06 <br>Fim: 29/06 | Equipe |
+| Gravação do vídeo final | OBS | Início: 30/06 <br>Fim: 30/06 | Equipe | Início: 30/06 <br>Fim: 01/07 | Equipe |
+| Entrega da apresentação final | Aprender3 | Data: 01/07 | - | - | - |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
 ## Revisões
 
-- Versão 0.1 - 10/04/2026 - 15:17
-Feita por: Rafael Melatti
+- Versão 0.1 - 10/04/2026 - 15:20<br>
+Feita por: Rafael Melatti<br>
 Alterações: Continuação do desenvolvimento
+
+- Versão 0.2 - 10/04/2026 - 17:23<br>
+Feita por: Rafael Melatti<br>
+Alterações: Conclusão das tabelas
