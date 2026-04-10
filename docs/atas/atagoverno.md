@@ -4,7 +4,10 @@
 
 ## Modelo
 
-![Modelo de ata](modeloATAS.png)
+![Modelo de ata](modelo/pag1.png) 
+![Modelo de ata](modelo/pag2.png)
+![Modelo de ata](modelo/pag3.png)
+![Modelo de ata](modelo/pag4.png)
 
 ---
 
