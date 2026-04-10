@@ -11,11 +11,18 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Planejamento do projeto | Remoto | Início: 01/04 <br>Fim: 03/04 | Heyttor, Giovanna | Início: 04/04 <br>Fim: 04/04 | João, Rafael |
 | Heatmap de disponibilidade | Discord | Início: 02/04 <br>Fim: 05/04 | Yasmim, Heyttor | Início: 06/04 <br>Fim: 06/04 | Giovanna |
 | Lista de sites avaliados | Web | Início: 03/04 <br>Fim: 06/04 | Heyttor | Início: 07/04 <br>Fim: 07/04 | Lucas |
-| Site selecionado | Web | Início: 07/04 <br>Fim: 08/04 | João | Início: 09/04 <br>Fim: 09/04 | Thiago |
 | Definição das ferramentas | Figma / Miro | Início: 05/04 <br>Fim: 07/04 | Thiago | Início: 08/04 <br>Fim: 08/04 | Heyttor |
 | Definição do processo de design | Figma | Início: 06/04 <br>Fim: 08/04 | Lucas, Yasmim | Início: 09/04 <br>Fim: 09/04 | Giovanna, Rafael |
-| Elaboração do cronograma | Documento | Início: 07/04 <br>Fim: 09/04 | Giovanna | Início: 10/04 <br>Fim: 10/04 | Heyttor, Yasmim |
-| Gravação do vídeo | OBS | Início: 10/04 <br>Fim: 10/04 | Rafael | Início: 10/04 <br>Fim: 10/04 | Equipe |
+| Justificar site selecionado | Web | Início: 07/04 <br>Fim: 08/04 | João | Início: 09/04 <br>Fim: 09/04 | Thiago |
+| Elaboração do cronograma | Documento | Início: 07/04 <br>Fim: 09/04 | Giovanna, Rafael | Início: 10/04 <br>Fim: 10/04 | Heyttor, Yasmim |
+| Criar github page | Github | Início: 07/04 <br>Fim: 09/04 | Heyttor | Início: 09/04 <br>Fim: 09/04 | Equipe |
+| Gravação do vídeo | OBS | Início: 10/04 <br>Fim: 10/04 | Equipe | Início: 10/04 <br>Fim: 10/04 | Equipe |
+| Preparar apresentação etapa 1 | Remoto | Início: 11/04 <br>Fim: 11/04 | Equipe | Início: 12/04 <br>Fim: 12/04 | João |
+| Entrega da apresentação etapa 1 | Aprender3 | Data: 12/04 | - | - | - |
+| Inspeção grupo+1 etapa 1 | Remoto | Início: 12/04 <br>Fim: 13/04 | Equipe | Início: 13/04 <br>Fim: 13/04 | Rafael |
+| Correção pós inspeção | Remoto | Início: 13/04 <br>Fim: 13/04 | Lucas, Heyttor, Rafael | Início: 13/04 <br>Fim: 13/04 | Giovanna, Yasmim |
+| Apresentação etapa 1 | Aula | Data: 14/04 | - | - | - |
+| Correções pós apresentação | Remoto | Início: 14/04 <br>Fim: 15/04 | Equipe | Início: 16/04 <br>Fim: 17/04 | Thiago, Rafael |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
@@ -28,7 +35,13 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Definição do perfil do usuário | Documento | Início: 18/04 <br>Fim: 22/04 | Giovanna, Thiago | Início: 23/04 <br>Fim: 23/04 | Lucas, Heyttor |
 | Levantamento de aspectos éticos | Documento | Início: 16/04 <br>Fim: 22/04 | Rafael, Heyttor, Yasmim | Início: 23/04 <br>Fim: 23/04 | Giovanna, João, Thiago |
 | Análise de tarefas | Miro | Início: 22/04 <br>Fim: 30/04 | João, Lucas | Início: 01/05 <br>Fim: 01/05 | Yasmim, Rafael |
-| Gravação do vídeo | Remoto | Início: 02/05 <br>Fim: 02/05 | Heyttor | Início: 02/05 <br>Fim: 02/05 | Equipe |
+| Gravação do vídeo | OBS | Início: 02/05 <br>Fim: 02/05 | Equipe | Início: 02/05 <br>Fim: 02/05 | Equipe |
+| Preparar apresentação etapa 2 | Remoto | Início: 02/05 <br>Fim: 03/05 | Equipe | Início: 03/05 <br>Fim: 03/05 | Lucas |
+| Entrega da apresentação etapa 2 | Aprender3 | Data: 03/05 | - | - | - |
+| Inspeção grupo+1 etapa 2 | Remoto | Início: 03/05 <br>Fim: 04/05 | Equipe | Início: 04/05 <br>Fim: 04/05 | Yasmim |
+| Correção pós inspeção | Remoto | Início: 04/05 <br>Fim: 04/05 | João, Thiago, Giovanna | Início: 04/05 <br>Fim: 04/05 | Heyttor, Rafael |
+| Apresentação etapa 2 | Aula | Data: 05/05 | - | - | - |
+| Correções pós apresentação | Remoto | Início: 05/05 <br>Fim: 06/05 | Equipe | Início: 07/05 <br>Fim: 07/05 | Giovanna, Lucas |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
@@ -38,11 +51,17 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Criação do guia de estilo | Figma | Início: 04/05 <br>Fim: 10/05 | Lucas, Heyttor | Início: 11/05 <br>Fim: 11/05 | Rafael, João |
 | Definição dos princípios do projeto | Documento | Início: 05/05 <br>Fim: 09/05 | Rafael, João | Início: 10/05 <br>Fim: 10/05 | Yasmim, Thiago |
 | Definição das metas de usabilidade | Documento | Início: 05/05 <br>Fim: 09/05 | Yasmim, Thiago | Início: 10/05 <br>Fim: 10/05 | Giovanna, Lucas |
 | Características da plataforma | Documento | Início: 06/05 <br>Fim: 09/05 | Giovanna, Lucas | Início: 10/05 <br>Fim: 10/05 | Heyttor |
-| Criação do guia de estilo | Figma | Início: 04/05 <br>Fim: 10/05 | Lucas, Heyttor | Início: 11/05 <br>Fim: 11/05 | Rafael, João |
-| Gravação do vídeo | Remoto | Início: 11/05 <br>Fim: 11/05 | João | Início: 11/05 <br>Fim: 11/05 | Equipe |
+| Gravação do vídeo | OBS | Início: 11/05 <br>Fim: 11/05 | Equipe | Início: 11/05 <br>Fim: 11/05 | Equipe |
+| Preparar apresentação etapa 3 | Remoto | Início: 11/05 <br>Fim: 12/05 | Equipe | Início: 12/05 <br>Fim: 12/05 | - |
+| Entrega da apresentação etapa 3 | Aprender3 | Data: 12/05 | - | - | - |
+| Inspeção grupo+1 etapa 3 | Remoto | Início: 12/05 <br>Fim: 13/05 | Equipe | Início: 13/05 <br>Fim: 13/05 | - |
+| Correção pós inspeção | Remoto | Início: 13/05 <br>Fim: 13/05 | - | Início: 13/05 <br>Fim: 13/05 | - |
+| Apresentação etapa 3 | Aula | Data: 14/05 | - | - | - |
+| Correções pós apresentação | Remoto | Início: 14/05 <br>Fim: 15/05 | Equipe | Início: 16/05 <br>Fim: 16/05 | - |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
@@ -53,10 +72,16 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
 | Planejamento da avaliação do storyboard | Miro | Início: 11/05 <br>Fim: 14/05 | Heyttor, Rafael | Início: 15/05 <br>Fim: 15/05 | João |
-| Planejamento do relato (storyboard) | Documento | Início: 14/05 <br>Fim: 17/05 | João, Yasmim | Início: 18/05 <br>Fim: 18/05 | Lucas, Yasmim |
 | Planejamento da avaliação da análise de tarefas | Miro | Início: 12/05 <br>Fim: 16/05 | Lucas, Yasmim | Início: 17/05 <br>Fim: 17/05 | Giovanna, Thiago |
+| Planejamento do relato (storyboard) | Documento | Início: 14/05 <br>Fim: 17/05 | João, Yasmim | Início: 18/05 <br>Fim: 18/05 | Lucas, Yasmim |
 | Planejamento do relato (análise de tarefas) | Documento | Início: 14/05 <br>Fim: 17/05 | Giovanna, Thiago | Início: 18/05 <br>Fim: 18/05 | Heyttor, Rafael |
-| Gravação do vídeo | Remoto | Início: 18/05 <br>Fim: 18/05 | Lucas | Início: 18/05 <br>Fim: 18/05 | Equipe |
+| Gravação do vídeo | OBS | Início: 18/05 <br>Fim: 18/05 | Equipe | Início: 18/05 <br>Fim: 18/05 | Equipe |
+| Preparar apresentação etapa 4 | Remoto | Início: 18/05 <br>Fim: 19/05 | Equipe | Início: 19/05 <br>Fim: 19/05 | - |
+| Entrega da apresentação etapa 4 | Aprender3 | Data: 19/05 | - | - | - |
+| Inspeção grupo+1 etapa 4 | Remoto | Início: 19/05 <br>Fim: 20/05 | Equipe | Início: 20/05 <br>Fim: 20/05 | - |
+| Correção pós inspeção | Remoto | Início: 20/05 <br>Fim: 20/05 | - | Início: 20/05 <br>Fim: 20/05 | - |
+| Apresentação etapa 4 | Aula | Data: 21/05 | - | - | - |
+| Correções pós apresentação | Remoto | Início: 21/05 <br>Fim: 22/05 | Equipe | Início: 23/05 <br>Fim: 23/05 | - |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
@@ -70,7 +95,13 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Relato da análise de tarefas | Documento | Início: 20/05 <br>Fim: 25/05 | Giovanna, Yasmim | Início: 26/05 <br>Fim: 26/05 | João, Rafael |
 | Planejamento da avaliação do protótipo de papel | Remoto | Início: 20/05 <br>Fim: 27/05 | João, Rafael | Início: 28/05 <br>Fim: 28/05 | Thiago |
 | Planejamento do relato do protótipo de papel | Documento | Início: 24/05 <br>Fim: 29/05 | Thiago, Giovanna | Início: 30/05 <br>Fim: 30/05 | Lucas, Heyttor |
-| Gravação do vídeo | Remoto | Início: 30/05 <br>Fim: 30/05 | Thiago | Início: 30/05 <br>Fim: 30/05 | Equipe |
+| Gravação do vídeo | OBS | Início: 30/05 <br>Fim: 30/05 | Equipe | Início: 30/05 <br>Fim: 30/05 | Equipe |
+| Preparar apresentação etapa 5 | Remoto | Início: 30/05 <br>Fim: 31/05 | Equipe | Início: 31/05 <br>Fim: 31/05 | - |
+| Entrega da apresentação etapa 5 | Aprender3 | Data: 31/05 | - | - | - |
+| Inspeção grupo+1 etapa 5 | Remoto | Início: 31/05 <br>Fim: 01/06 | Equipe | Início: 01/06 <br>Fim: 01/06 | - |
+| Correção pós inspeção | Remoto | Início: 01/06 <br>Fim: 01/06 | - | Início: 01/06 <br>Fim: 01/06 | - |
+| Apresentação etapa 5 | Aula | Data: 02/06 | - | - | - |
+| Correções pós apresentação | Remoto | Início: 02/06 <br>Fim: 03/06 | Equipe | Início: 04/06 <br>Fim: 04/06 | - |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
@@ -119,3 +150,9 @@ Célula genérica da tabela para facilitar a criação e a manutenção:
 | Gravação do vídeo final | Remoto | Início: 01/07 <br>Fim: 01/07 | Heyttor | Início: 01/07 <br>Fim: 01/07 | Equipe |
 
 <font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
+
+## Revisões
+
+- Versão 0.1 - 10/04/2026 - 15:17
+Feita por: Rafael Melatti
+Alterações: Continuação do desenvolvimento
