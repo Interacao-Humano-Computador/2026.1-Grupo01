@@ -1,167 +1,121 @@
-# Cronograma Detalhado do Projeto — IHC 2026.1
+﻿<!--
+Célula genérica da tabela para facilitar a criação e a manutenção:
+| - | - | Início: - <br>Fim: - | - | Início: - <br>Fim: - | - |
+-->
 
-<style>
-table { width: 100%; border-collapse: collapse; font-size: 13px; table-layout: fixed; }
-table th, table td { padding: 8px; vertical-align: top; border-bottom: 0.5px solid #ccc; word-wrap: break-word; }
-thead th { font-weight: 600; font-size: 12px; }
-.ca { width: 22%; } .cb { width: 11%; } .cc { width: 7%; text-align: center; }
-.cd { width: 7%; text-align: center; } .ce { width: 21%; }
-.cf { width: 7%; text-align: center; } .cg { width: 7%; text-align: center; }
-.ch { width: 18%; }
-</style>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do projeto e processo de design</p></font>
 
+| Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
+| --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Planejamento da equipe | Remoto | Início: 01/04 <br>Fim: 02/04 | Rafael | Início: 03/04 <br>Fim: 03/04 | Yasmim |
+| Planejamento do projeto | Remoto | Início: 01/04 <br>Fim: 03/04 | Heyttor, Giovanna | Início: 04/04 <br>Fim: 04/04 | João, Rafael |
+| Heatmap de disponibilidade | Discord | Início: 02/04 <br>Fim: 05/04 | Yasmim, Heyttor | Início: 06/04 <br>Fim: 06/04 | Giovanna |
+| Lista de sites avaliados | Web | Início: 03/04 <br>Fim: 06/04 | Heyttor | Início: 07/04 <br>Fim: 07/04 | Lucas |
+| Site selecionado | Web | Início: 07/04 <br>Fim: 08/04 | João | Início: 09/04 <br>Fim: 09/04 | Thiago |
+| Definição das ferramentas | Figma / Miro | Início: 05/04 <br>Fim: 07/04 | Thiago | Início: 08/04 <br>Fim: 08/04 | Heyttor |
+| Definição do processo de design | Figma | Início: 06/04 <br>Fim: 08/04 | Lucas, Yasmim | Início: 09/04 <br>Fim: 09/04 | Giovanna, Rafael |
+| Elaboração do cronograma | Documento | Início: 07/04 <br>Fim: 09/04 | Giovanna | Início: 10/04 <br>Fim: 10/04 | Heyttor, Yasmim |
+| Gravação do vídeo | OBS | Início: 10/04 <br>Fim: 10/04 | Rafael | Início: 10/04 <br>Fim: 10/04 | Equipe |
 
+<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
-## Etapa 1 — Planejamento do Projeto
-**Entrega:** 12/04 · **Apresentação:** 14/04
 
-<table><colgroup><col class="ca"><col class="cb"><col class="cc"><col class="cd"><col class="ce"><col class="cf"><col class="cg"><col class="ch"></colgroup>
-<thead><tr><th>Atividade</th><th>Local</th><th>Início</th><th>Fim</th><th>Responsáveis</th><th>Início revisão</th><th>Fim revisão</th><th>Revisores</th></tr></thead>
-<tbody>
-<tr><td>Planejamento do Projeto</td><td>Remoto</td><td>01/04</td><td>03/04</td><td>Heyttor, Giovanna</td><td>04/04</td><td>04/04</td><td>João, Rafael</td></tr>
 
-<tr><td>Planejamento da equipe</td><td>Remoto</td><td>01/04</td><td>02/04</td><td>Rafael</td><td>03/04</td><td>03/04</td><td>Yasmim</td></tr>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Perfil do usuário, Aspectos Éticos e Análise de tarefas</p></font>
 
-<tr><td>Heatmap de disponibilidade</td><td>Discord</td><td>02/04</td><td>05/04</td><td>Yasmim, Heyttor</td><td>06/04</td><td>06/04</td><td>Giovanna</td></tr>
+| Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
+| --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Definição do perfil do usuário | Documento | Início: 18/04 <br>Fim: 22/04 | Giovanna, Thiago | Início: 23/04 <br>Fim: 23/04 | Lucas, Heyttor |
+| Levantamento de aspectos éticos | Documento | Início: 16/04 <br>Fim: 22/04 | Rafael, Heyttor, Yasmim | Início: 23/04 <br>Fim: 23/04 | Giovanna, João, Thiago |
+| Análise de tarefas | Miro | Início: 22/04 <br>Fim: 30/04 | João, Lucas | Início: 01/05 <br>Fim: 01/05 | Yasmim, Rafael |
+| Gravação do vídeo | Remoto | Início: 02/05 <br>Fim: 02/05 | Heyttor | Início: 02/05 <br>Fim: 02/05 | Equipe |
 
-<tr><td>Lista de sites avaliados</td><td>Web</td><td>03/04</td><td>06/04</td><td>Heyttor</td><td>07/04</td><td>07/04</td><td>Lucas</td></tr>
+<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
-<tr><td>Site selecionado</td><td>Web</td><td>07/04</td><td>08/04</td><td>João</td><td>09/04</td><td>09/04</td><td>Thiago</td></tr>
 
-<tr><td>Definição das ferramentas</td><td>Figma / Miro</td><td>05/04</td><td>07/04</td><td>Thiago</td><td>08/04</td><td>08/04</td><td>Heyttor</td></tr>
 
-<tr><td>Definição do processo de design</td><td>Figma</td><td>06/04</td><td>08/04</td><td>Lucas, Yasmim</td><td>09/04</td><td>09/04</td><td>Giovanna, Rafael</td></tr>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Princípios e Guia de Estilo</p></font>
 
-<tr><td>Elaboração do cronograma</td><td>Documento</td><td>07/04</td><td>09/04</td><td>Giovanna</td><td>10/04</td><td>10/04</td><td>Heyttor, Yasmim</td></tr>
+| Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
+| --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Definição dos princípios do projeto | Documento | Início: 05/05 <br>Fim: 09/05 | Rafael, João | Início: 10/05 <br>Fim: 10/05 | Yasmim, Thiago |
+| Definição das metas de usabilidade | Documento | Início: 05/05 <br>Fim: 09/05 | Yasmim, Thiago | Início: 10/05 <br>Fim: 10/05 | Giovanna, Lucas |
+| Características da plataforma | Documento | Início: 06/05 <br>Fim: 09/05 | Giovanna, Lucas | Início: 10/05 <br>Fim: 10/05 | Heyttor |
+| Criação do guia de estilo | Figma | Início: 04/05 <br>Fim: 10/05 | Lucas, Heyttor | Início: 11/05 <br>Fim: 11/05 | Rafael, João |
+| Gravação do vídeo | Remoto | Início: 11/05 <br>Fim: 11/05 | João | Início: 11/05 <br>Fim: 11/05 | Equipe |
 
-<tr><td>Gravação do vídeo</td><td>OBS</td><td>10/04</td><td>10/04</td><td>Rafael</td><td>10/04</td><td>10/04</td><td>Equipe</td></tr>
-</tbody></table>
+<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
 
 
-## Etapa 2 — Perfil, Ética e Tarefas
-**Entrega:** 03/05 · **Apresentação:** 05/05
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Planejamento da Avaliação e Storyboard</p></font>
 
-<table><colgroup><col class="ca"><col class="cb"><col class="cc"><col class="cd"><col class="ce"><col class="cf"><col class="cg"><col class="ch"></colgroup>
-<thead><tr><th>Atividade</th><th>Local</th><th>Início</th><th>Fim</th><th>Responsáveis</th><th>Início revisão</th><th>Fim revisão</th><th>Revisores</th></tr></thead>
-<tbody>
+| Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
+| --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Planejamento da avaliação do storyboard | Miro | Início: 11/05 <br>Fim: 14/05 | Heyttor, Rafael | Início: 15/05 <br>Fim: 15/05 | João |
+| Planejamento do relato (storyboard) | Documento | Início: 14/05 <br>Fim: 17/05 | João, Yasmim | Início: 18/05 <br>Fim: 18/05 | Lucas, Yasmim |
+| Planejamento da avaliação da análise de tarefas | Miro | Início: 12/05 <br>Fim: 16/05 | Lucas, Yasmim | Início: 17/05 <br>Fim: 17/05 | Giovanna, Thiago |
+| Planejamento do relato (análise de tarefas) | Documento | Início: 14/05 <br>Fim: 17/05 | Giovanna, Thiago | Início: 18/05 <br>Fim: 18/05 | Heyttor, Rafael |
+| Gravação do vídeo | Remoto | Início: 18/05 <br>Fim: 18/05 | Lucas | Início: 18/05 <br>Fim: 18/05 | Equipe |
 
-<tr><td>Definição do perfil do usuário</td><td>Documento</td><td>18/04</td><td>22/04</td><td>Giovanna, Thiago</td><td>23/04</td><td>23/04</td><td>Lucas, Heyttor</td></tr>
+<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
-<tr><td>Levantamento de aspectos éticos</td><td>Documento</td><td>16/04</td><td>22/04</td><td>Rafael, Heyttor, Yasmim</td><td>23/04</td><td>23/04</td><td>Giovanna, João, Thiago</td></tr>
 
-<tr><td>Análise de tarefas </td><td>Miro</td><td>22/04</td><td>30/04</td><td>João, Lucas</td><td>01/05</td><td>01/05</td><td>Yasmim, Rafael</td></tr>
 
-<tr><td>Gravação do vídeo</td><td>Remoto</td><td>02/05</td><td>02/05</td><td>Heyttor</td><td>02/05</td><td>02/05</td><td>Equipe</td></tr>
-</tbody></table>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Resultados e Planejamento do Protótipo</p></font>
 
+| Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
+| --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Relato dos resultados do storyboard | Documento | Início: 19/05 <br>Fim: 24/05 | Lucas, Heyttor | Início: 25/05 <br>Fim: 25/05 | Giovanna, Yasmim |
+| Relato da análise de tarefas | Documento | Início: 20/05 <br>Fim: 25/05 | Giovanna, Yasmim | Início: 26/05 <br>Fim: 26/05 | João, Rafael |
+| Planejamento da avaliação do protótipo de papel | Remoto | Início: 20/05 <br>Fim: 27/05 | João, Rafael | Início: 28/05 <br>Fim: 28/05 | Thiago |
+| Planejamento do relato do protótipo de papel | Documento | Início: 24/05 <br>Fim: 29/05 | Thiago, Giovanna | Início: 30/05 <br>Fim: 30/05 | Lucas, Heyttor |
+| Gravação do vídeo | Remoto | Início: 30/05 <br>Fim: 30/05 | Thiago | Início: 30/05 <br>Fim: 30/05 | Equipe |
 
+<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
-## Etapa 3 — Princípios e Guia de Estilo
-**Entrega:** 12/05 · **Apresentação:** 14/05
 
-<table><colgroup><col class="ca"><col class="cb"><col class="cc"><col class="cd"><col class="ce"><col class="cf"><col class="cg"><col class="ch"></colgroup>
-<thead><tr><th>Atividade</th><th>Local</th><th>Início</th><th>Fim</th><th>Responsáveis</th><th>Início revisão</th><th>Fim revisão</th><th>Revisores</th></tr></thead>
-<tbody>
 
-<tr><td>Definição dos princípios do projeto</td><td>Documento</td><td>05/05</td><td>09/05</td><td>Rafael, João</td><td>10/05</td><td>10/05</td><td>Yasmim, Thiago</td></tr>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Protótipo de Papel</p></font>
 
-<tr><td>Definição das metas de usabilidade</td><td>Documento</td><td>05/05</td><td>09/05</td><td>Yasmim, Thiago</td><td>10/05</td><td>10/05</td><td>Giovanna, Lucas</td></tr>
+| Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
+| --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Relato dos resultados do protótipo de papel | Documento | Início: 01/06 <br>Fim: 04/06 | Heyttor, Thiago | Início: 05/06 <br>Fim: 05/06 | Rafael, João, Yasmim |
+| Planejamento da avaliação do protótipo de alta fidelidade | Figma | Início: 03/06 <br>Fim: 06/06 | Rafael, João, Yasmim | Início: 07/06 <br>Fim: 07/06 | Giovanna, Lucas |
+| Planejamento do relato (alta fidelidade) | Documento | Início: 05/06 <br>Fim: 06/06 | Giovanna, Lucas | Início: 07/06 <br>Fim: 07/06 | Heyttor, Thiago |
+| Gravação do vídeo | Remoto | Início: 07/06 <br>Fim: 07/06 | Giovanna | Início: 07/06 <br>Fim: 07/06 | Equipe |
 
-<tr><td>Características da plataforma</td><td>Documento</td><td>06/05</td><td>09/05</td><td>Giovanna, Lucas</td><td>10/05</td><td>10/05</td><td>Heyttor</td></tr>
+<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
-<tr><td>Criação do guia de estilo</td><td>Figma</td><td>04/05</td><td>10/05</td><td>Lucas, Heyttor</td><td>11/05</td><td>11/05</td><td>Rafael, João</td></tr>
 
-<tr><td>Gravação do vídeo</td><td>Remoto</td><td>11/05</td><td>11/05</td><td>João</td><td>11/05</td><td>11/05</td><td>Equipe</td></tr>
-</tbody></table>
 
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Protótipo de Alta Fidelidade</p></font>
 
+| Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
+| --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Relato dos resultados do protótipo de alta fidelidade | Figma / Testes | Início: 08/06 <br>Fim: 15/06 | Equipe | Início: 16/06 <br>Fim: 16/06 | Equipe |
+| Gravação do vídeo da apresentação | Remoto | Início: 16/06 <br>Fim: 16/06 | Yasmim | Início: 16/06 <br>Fim: 16/06 | Equipe |
 
-## Etapa 4 — Planejamento da Avaliação e Storyboard
-**Entrega:** 19/05 · **Apresentação:** 21/05
+<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
-<table><colgroup><col class="ca"><col class="cb"><col class="cc"><col class="cd"><col class="ce"><col class="cf"><col class="cg"><col class="ch"></colgroup>
-<thead><tr><th>Atividade</th><th>Local</th><th>Início</th><th>Fim</th><th>Responsáveis</th><th>Início revisão</th><th>Fim revisão</th><th>Revisores</th></tr></thead>
-<tbody>
-<tr><td>Planejamento da avaliação do storyboard</td><td>Miro</td><td>11/05</td><td>14/05</td><td>Heyttor, Rafael<td>15/05</td><td>15/05</td><td>João</td></tr>
 
-<tr><td>Planejamento do relato (storyboard)</td><td>Documento</td><td>14/05</td><td>17/05</td><td>João, Yasmim</td><td>18/05</td><td>18/05</td><td>Lucas, Yasmim</td></tr>
 
-<tr><td>Planejamento da avaliação da análise de tarefas</td><td>Miro</td><td>12/05</td><td>16/05</td><td>Lucas, Yasmim</td><td>17/05</td><td>17/05</td><td>Giovanna, Thiago</td></tr>
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Verificação de Artefatos</p></font>
 
-<tr><td>Planejamento do relato (análise de tarefas)</td><td>Documento</td><td>14/05</td><td>17/05</td><td>Giovanna, Thiago</td><td>18/05</td><td>18/05</td><td>Heyttor, Rafael</td></tr>
+| Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
+| --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Verificação final de todos os artefatos | Repositório | Início: 17/06 <br>Fim: 22/06 | Equipe | Início: 23/06 <br>Fim: 23/06 | Equipe |
+| Gravação do vídeo da apresentação | Remoto | Início: 23/06 <br>Fim: 23/06 | Yasmim | Início: 16/06 <br>Fim: 16/06 | Equipe |
 
-<tr><td>Gravação do vídeo</td><td>Remoto</td><td>18/05</td><td>18/05</td><td>Lucas</td><td>18/05</td><td>18/05</td><td>Equipe</td></tr>
-</tbody></table>
+<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
 
 
 
-## Etapa 5 — Resultados e Planejamento do Protótipo
-**Entrega:** 31/05 · **Apresentação:** 02/06
+<font size="3"><p style="text-align: center"><b>Entrega Final</b> </p></font>
 
-<table><colgroup><col class="ca"><col class="cb"><col class="cc"><col class="cd"><col class="ce"><col class="cf"><col class="cg"><col class="ch"></colgroup>
-<thead><tr><th>Atividade</th><th>Local</th><th>Início</th><th>Fim</th><th>Responsáveis</th><th>Início revisão</th><th>Fim revisão</th><th>Revisores</th></tr></thead>
-<tbody>
-<tr><td>Relato dos resultados do storyboard</td><td>Documento</td><td>19/05</td><td>24/05</td><td>Lucas, Heyttor</td><td>25/05</td><td>25/05</td><td>Giovanna, Yasmim</td></tr>
+| Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
+| --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
+| Preparação da apresentação final | Online | Início: 24/06 <br>Fim: 30/06 | Equipe | Início: 01/07 <br>Fim: 01/07 | Equipe |
+| Gravação do vídeo final | Remoto | Início: 01/07 <br>Fim: 01/07 | Heyttor | Início: 01/07 <br>Fim: 01/07 | Equipe |
 
-<tr><td>Relato da análise de tarefas</td><td>Documento</td><td>20/05</td><td>25/05</td><td>Giovanna, Yasmim</td><td>26/05</td><td>26/05</td><td>João, Rafael</td></tr>
-
-<tr><td>Planejamento da avaliação do protótipo de papel</td><td>Remoto</td><td>20/05</td><td>27/05</td><td>João, Rafael</td><td>28/05</td><td>28/05</td><td>Thiago</td></tr>
-
-<tr><td>Planejamento do relato dos resultados da avaliação do protótipo de papel</td><td>Documento</td><td>24/05</td><td>29/05</td><td>Thiago, Giovanna</td><td>30/05</td><td>30/05</td><td>Lucas, Heyttor</td></tr>
-
-<tr><td>Gravação do vídeo</td><td>Remoto</td><td>30/05</td><td>30/05</td><td>Thiago</td><td>30/05</td><td>30/05</td><td>Equipe</td></tr>
-</tbody></table>
-
-
-
-## Etapa 6 — Protótipo de Papel
-**Entrega:** 07/06 · **Apresentação:** 09/06
-
-<table><colgroup><col class="ca"><col class="cb"><col class="cc"><col class="cd"><col class="ce"><col class="cf"><col class="cg"><col class="ch"></colgroup>
-<thead><tr><th>Atividade</th><th>Local</th><th>Início</th><th>Fim</th><th>Responsáveis</th><th>Início revisão</th><th>Fim revisão</th><th>Revisores</th></tr></thead>
-<tbody>
-<tr><td>Relato dos resultados do protótipo de papel</td><td>Documento</td><td>01/06</td><td>04/06</td><td>Heyttor, Thiago</td><td>05/06</td><td>05/06</td><td>Rafael, João, Yasmim</td></tr>
-
-<tr><td>Planejamento da avaliação do protótipo de alta fidelidade</td><td>Figma</td><td>03/06</td><td>06/06</td><td>Rafael, João, Yasmim</td><td>07/06</td><td>07/06</td><td>Giovanna, Lucas</td></tr>
-
-<tr><td>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td><td>Documento</td><td>05/06</td><td>06/06</td><td>Giovanna, Lucas</td><td>07/06</td><td>07/06</td><td>Heyttor, Thiago</td></tr>
-
-<tr><td>Gravação do vídeo</td><td>Remoto</td><td>07/06</td><td>07/06</td><td>Giovanna</td><td>07/06</td><td>07/06</td><td>Equipe</td></tr>
-</tbody></table>
-
-
-
-## Etapa 7 — Protótipo de Alta Fidelidade
-**Entrega:** 16/06 · **Apresentação:** 18/06
-
-<table><colgroup><col class="ca"><col class="cb"><col class="cc"><col class="cd"><col class="ce"><col class="cf"><col class="cg"><col class="ch"></colgroup>
-<thead><tr><th>Atividade</th><th>Local</th><th>Início</th><th>Fim</th><th>Responsáveis</th><th>Início revisão</th><th>Fim revisão</th><th>Revisores</th></tr></thead>
-<tbody>
-<tr><td>Relato dos resultados do protótipo de alta fidelidade</td><td>Figma / Teste com usuários</td><td>08/06</td><td>15/06</td><td>Equipe</td><td>16/06</td><td>16/06</td><td>Equipe</td></tr>
-<tr><td>Gravação do vídeo da apresentação</td><td>Remoto</td><td>16/06</td><td>16/06</td><td>Yasmim</td><td>16/06</td><td>16/06</td><td>Equipe</td></tr>
-</tbody></table>
-
-
-
-## Etapa 8 — Verificação de Artefatos
-**Entrega:** 23/06 · **Apresentação:** 25/06
-
-<table><colgroup><col class="ca"><col class="cb"><col class="cc"><col class="cd"><col class="ce"><col class="cf"><col class="cg"><col class="ch"></colgroup>
-<thead><tr><th>Atividade</th><th>Local</th><th>Início</th><th>Fim</th><th>Responsáveis</th><th>Início revisão</th><th>Fim revisão</th><th>Revisores</th></tr></thead>
-<tbody>
-<tr><td>Verificação final de todos os artefatos produzidos</td><td>Repositório do projeto</td><td>17/06</td><td>22/06</td><td>Equipe</td><td>23/06</td><td>23/06</td><td>Equipe</td></tr>
-<tr><td>Gravação do vídeo da apresentação</td><td>Remoto</td><td>23/06</td><td>23/06</td><td>Rafael</td><td>23/06</td><td>23/06</td><td>Equipe</td></tr>
-</tbody></table>
-
-
-
-## Entrega Final
-**Entrega:** 01/07 · **Avaliação:** 02/07 – 16/07
-
-<table><colgroup><col class="ca"><col class="cb"><col class="cc"><col class="cd"><col class="ce"><col class="cf"><col class="cg"><col class="ch"></colgroup>
-<thead><tr><th>Atividade</th><th>Local</th><th>Início</th><th>Fim</th><th>Responsáveis</th><th>Início revisão</th><th>Fim revisão</th><th>Revisores</th></tr></thead>
-<tbody>
-<tr><td>Preparação da apresentação final do projeto</td><td>Online</td><td>24/06</td><td>30/06</td><td>Equipe</td><td>01/07</td><td>01/07</td><td>Equipe</td></tr>
-<tr><td>Gravação do vídeo final</td><td>Remoto</td><td>01/07</td><td>01/07</td><td>Heyttor</td><td>01/07</td><td>01/07</td><td>Equipe</td></tr>
-</tbody></table>
+<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti]() e [Giovanna Agiar]().</p></font>
