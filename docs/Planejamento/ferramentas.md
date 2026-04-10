@@ -12,6 +12,7 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 | ![logo github pages](../images/planejamento/ferramentas/github-pages-icon.png) {: style="height: 10px; width: 10px"} | Github pages | Deploy do MKdocs diretamente do repositório. |
 | ![logo sheets](../images/planejamento/ferramentas/google-docs-icon.png) {: style="height: 10px; width: 10px"} | Google Docs | Editor online de texto em grupo. |
 | ![logo sheets](../images/planejamento/ferramentas/google-sheets-icon.png) {: style="height: 10px; width: 10px"} | Google Sheets | Editor online de planilhas em grupo. |
+| ![logo miro](../images/planejamento/ferramentas/miro-icon.png) {: style="height: 10px; width: 10px"} | Miro | Espaço de trabalho online em grupo. |
 | ![logo mkdocs](../images/planejamento/ferramentas/mkdocs-icon.png) {: style="height: 10px; width: 10px"} | MKdocs | Criação de páginas estáticas. |
 | ![logo obs](../images/planejamento/ferramentas/obs-icon.png) {: style="height: 10px; width: 10px"} | OBS | Software para gravação das reuniões. |
 | ![logo vscode](../images/planejamento/ferramentas/vscode-icon.png) {: style="height: 10px; width: 10px"} | Vscode | Editor de texto para criação e manutenção das páginas estáticas. |
@@ -27,6 +28,7 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 - [GitHub Pages](https://pages.github.com/)
 - [Google Docs](https://workspace.google.com/intl/pt-BR/products/docs/)
 - [Google Sheets](https://workspace.google.com/intl/pt-BR/products/sheets/)
+- [Miro](https://miro.com/pt/)
 - [MKdocs](https://www.mkdocs.org/)
 - [OBS](https://obsproject.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
