@@ -53,7 +53,8 @@ nav:
     - Avaliação +1: Avaliações/grupo +1/exemplo.md
 
   - Atas:
-    - Ata 1: atas/exemplo.md
+    - Ata 1: atas/ata1.md
+    - Modelo de Ata: atas/atagoverno.md
 
   - Analise de requisitos:
     - Analise de requisitos: analise de requisitos/exemplo.md
