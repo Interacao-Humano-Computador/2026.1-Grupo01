@@ -10,7 +10,7 @@ Os sites escolhidos pelos/as integrantes do grupo foram:
 
 ## Agendamento para teste de carga viral de HIV — Fundação Hemocentro
 
-**Link do site:** https://www.fhb.df.gov.br/
+**Link do site:** https://agenda.df.gov.br/organizacao.html?organizacao=39643613
 
 <img src="https://assets.infra.grancursosonline.com.br/projeto/fundacao-hemocentro-de-brasilia-1688662966.jpg" width="300">
 
@@ -43,7 +43,7 @@ O site permite que cidadãos e cidadãs registrem boletins de ocorrência (BO) d
 
 ## Agendamento de doação de sangue
 
-**Link do site:** https://www.fhb.df.gov.br/doacao-de-sangue/
+**Link do site:** https://agenda.df.gov.br/organizacao.html?organizacao=37959462
 
 <img src="https://assets.infra.grancursosonline.com.br/projeto/fundacao-hemocentro-de-brasilia-1688662966.jpg" width="300">
 
@@ -76,7 +76,7 @@ O site tem como objetivo orientar pessoas com Transtorno do Espectro Autista (TE
 
 ## Agendamento de pessoas físicas — Cartório de Valparaíso de Goiás
 
-**Link do site:** https://crvgo.com.br/
+**Link do site:** https://crvgo.com.br
 
 <img src="https://crvgo.com.br/wp-content/uploads/2025/05/5-1024x576.png" width="300"> 
 
@@ -107,7 +107,7 @@ A funcionalidade analisada permite que estudantes solicitem a segunda via do car
 
 ## Portal e-CAC — Receita Federal
 
-**Link do site:** https://cav.receita.fazenda.gov.br/ecac/
+**Link do site:** https://cav.receita.fazenda.gov.br/autenticacao/login
 
 <img src="https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2020/julho/acesso-gov-br-e-disponibilizado-para-o-portal-e-cac/ecac.jpg/@@images/b6ac10c8-a365-4826-aab4-982107381eec.jpeg" width="300">
 
@@ -129,7 +129,8 @@ O site escolhido pelo grupo para o desenvolvimento do projeto da disciplina foi 
 
 ## Versionamento
 
-| Versão | Data | Autor(es/as) | Descrição | Revisor(es/as) |
-| ------ | ---- | ---------- | --------- | ------------ | 
-| 1.0 | 10/04/2026 | Heyttor Augusto | Iniciação do documento | Giovanna Aguiar |
-| 1.1 | 11/04/2026 | Giovanna Aguiar | Iniciação do documento | Giovanna Aguiar |
+| Versão | Data       | Descrição                                     | Autor(es/as)       | Revisor(es/as)     |
+|--------|------------|--------------------------------------------------------|------------------|------------------|
+| 1.0   | 10/04/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62)    | [Giovanna Aguiar](https://github.com/giovannabrito19)  |
+| 1.1   | 11/04/2026 | Correção de inconsistências presentes no texto| [Giovanna Aguiar](https://github.com/giovannabrito19)| Equipe  |
+

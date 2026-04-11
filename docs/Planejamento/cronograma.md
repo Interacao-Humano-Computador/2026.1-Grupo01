@@ -242,9 +242,9 @@ Entrega não finalizada
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
-| 0.1 | 09/04/2026 | Criação da tabela completa em html | Giovanna Aguiar | Rafael Melatti |
-| 0.2 | 09/04/2026 | Conversão para markdown (md) | Rafael Melatti | Giovanna Aguiar |
-| 0.3 | 10/04/2026 | Continuação do desenvolvimento | Rafael Melatti | Giovanna Aguiar |
-| 0.4 | 10/04/2026 | Conclusão das tabelas | Rafael Melatti | Giovanna Aguiar |
-| 1.0 | 10/04/2026 | Refatoração, correção das revisões, adição das rotas da fonte, "Expectativa vs Realidade", introdução, preenchimento total das tabelas | Rafael Melatti | Equipe |
-| 1.1 | 10/04/2026 | Correção de nomenclaturas | Giovanna Aguiar| Equipe |
+| 0.1 | 09/04/2026 | Criação da tabela completa em html | [Giovanna Aguiar](https://github.com/giovannabrito19) | [Rafael Melatti](https://github.com/Romm-0) |
+| 0.2 | 09/04/2026 | Conversão para markdown (md) | [Rafael Melatti](https://github.com/Romm-0) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
+| 0.3 | 10/04/2026 | Continuação do desenvolvimento | [Rafael Melatti](https://github.com/Romm-0) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
+| 0.4 | 10/04/2026 | Conclusão das tabelas | [Rafael Melatti](https://github.com/Romm-0) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
+| 1.0 | 10/04/2026 | Refatoração, correção das revisões, adição das rotas da fonte, "Expectativa vs Realidade", introdução, preenchimento total das tabelas | [Rafael Melatti](https://github.com/Romm-0) | Equipe |
+| 1.1 | 10/04/2026 | Correção de nomenclaturas | [Giovanna Aguiar](https://github.com/giovannabrito19)| Equipe |
