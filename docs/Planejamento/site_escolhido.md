@@ -98,6 +98,6 @@ Isso também viola a heurística de **PRODUTIVIDADE**, pois a baixa produtividad
 
 ## Versionamento 
 
-|  Data | Tarefa realizada | autor  | Revisor|
-| ------|------------------|--------|--------|
-|09/04/2026| Criação do documento e inicialização do mesmo | [João morais](https://github.com/Blazemorales)| [Heyttor Augusto](https://github.com/H3ytt0r62) |
+|Versão |  Data | Tarefa realizada | autor  | Revisor|
+|------| ------|------------------|--------|--------|
+|1.0|09/04/2026| Criação do documento e inicialização do mesmo | [João morais](https://github.com/Blazemorales)| [Heyttor Augusto](https://github.com/H3ytt0r62) |
