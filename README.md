@@ -1,5 +1,5 @@
 # CAC
-<p style="text-align: center;"><img width="50%" alt="image" src="images/logo_cac.jpeg"></p>
+<p style="text-align: center;"><img width="50%" alt="image" src="/docs/images/logo_cac.jpeg"></p>
 
 ## Introdução  
 Este repositório contém os materiais e estudos desenvolvidos na disciplina de **Interação humano-Computador** do curso de **Engenharia de Software da Universidade de Brasília (FCTE/UnB)**.  
