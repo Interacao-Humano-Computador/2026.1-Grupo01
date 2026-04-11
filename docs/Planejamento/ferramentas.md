@@ -17,6 +17,7 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 | ![logo obs](../images/planejamento/ferramentas/obs-icon.png) {: style="height: 10px; width: 10px"} | OBS | Software para gravação das reuniões. |
 | ![logo vscode](../images/planejamento/ferramentas/vscode-icon.png) {: style="height: 10px; width: 10px"} | Vscode | Editor de texto para criação e manutenção das páginas estáticas. |
 | ![logo whatsapp](../images/planejamento/ferramentas/whatsapp-icon.png) {: style="height: 10px; width: 10px"} | Whatsapp | Comunicação rápida entre os membros do grupo. |
+| ![logo whatsapp](../images/planejamento/ferramentas/when2meet-icon.png) {: style="height: 10px; width: 10px"} | When2meet | Ferramenta para organizar horários disponíveis dos membros da equipe através de um heatmap. |
 | ![logo youtube](../images/planejamento/ferramentas/youtube-icon.png) {: style="height: 10px; width: 10px"} | Youtube | Publicar os vídeos. |
 
 ## Bibliografia
@@ -33,10 +34,12 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 - [OBS](https://obsproject.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Whatsapp](https://www.whatsapp.com/)
+- [When2meet](https://www.when2meet.com/)
 - [Youtube](https://www.youtube.com/)
 
 ## Histórico de Versão
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-| 1.0 | Criação da página de ferramentas | [Thiago Gomes](https://github.com/thgomxs) | 09/04/2026 | -- | -- |
+| 1.0 | Criação da página de ferramentas | [Thiago Gomes](https://github.com/thgomxs) | 09/04/2026 | Giovanna Aguiar | 09/04/2026 |
+| 1.1 | Adição da ferramenta When2meet | [Thiago Gomes](https://github.com/thgomxs) | 11/04/2026 | Giovanna Aguiar | 11/04/2026 |
