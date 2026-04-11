@@ -11,22 +11,20 @@ Durante o encontro, foram discutidos os primeiros direcionamentos, divisão inic
 
 ## Gravação da Reunião
 
-<div style="text-align: center;">
-  <iframe width="700" height="400"
-    src="https://www.youtube.com/embed/SjuXvSSGdys"
-    title="Reunião 1 – Planejamento"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+<div style="border:1px solid #ccc; padding:16px; border-radius:12px; text-align:center;">
+  <h3>Reunião 1 – Planejamento</h3>
+  <p>Assista à gravação completa no YouTube</p>
+  <a href="https://youtu.be/SjuXvSSGdys" target="_blank" 
+     style="display:inline-block; padding:10px 20px; background:#e53935; color:white; border-radius:8px; text-decoration:none;">
+     ▶Assistir vídeo
+  </a>
 </div>
 
 ---
 
 ## Mais informações
 
-Para mais detalhes sobre o que foi discutido na reunião, consulte a ata:
-
-[Acessar Ata da Reunião 1](../atas/ata1.md)
+Para mais detalhes sobre o que foi discutido na reunião, consulte a ata: [Acessar Ata da Reunião 1](../atas/ata1.md)
 
 ---
 
