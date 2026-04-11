@@ -37,7 +37,7 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 - [When2meet](https://www.when2meet.com/)
 - [Youtube](https://www.youtube.com/)
 
-## Histórico de Versão
+## Versionamento
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
