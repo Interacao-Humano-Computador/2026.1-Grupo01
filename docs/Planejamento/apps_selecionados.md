@@ -1,79 +1,135 @@
-## sites selecionados pelo grupo
+## Sites selecionados pelo grupo
 
+### Introdução
 
-Os sites escolhidos pelo membros do grupo foram:
+Nesta seção, são apresentados os sites analisados pelo grupo no contexto da disciplina de Interação Humano-Computador. O objetivo dessas análises é identificar problemas de usabilidade e interação, com base em critérios heurísticos, a fim de compreender as principais dificuldades enfrentadas pelos/as usuários/as e propor possíveis melhorias.
 
-## Agendamento para teste de carga viral de HIV, da Fundação Hemocentro  
+Os sites escolhidos pelos/as integrantes do grupo foram:
+
+---
+
+## Agendamento para teste de carga viral de HIV — Fundação Hemocentro
+
+**Link do site:** https://www.fhb.df.gov.br/
 
 <img src="https://assets.infra.grancursosonline.com.br/projeto/fundacao-hemocentro-de-brasilia-1688662966.jpg" width="300">
 
-A funcionalidade tem como objetivo fazer o agendamento de exames de carga viral de HIV, Hepatite C, Hepatite C e contagem de linfócitos TCD4 e TCD8 com foco no exame da carga viral de HIV. 
+A funcionalidade analisada tem como objetivo permitir o agendamento de exames laboratoriais, como carga viral de HIV, hepatite C e contagem de linfócitos TCD4 e TCD8, com foco principal no exame de carga viral de HIV.
 
-Os problemas encontrados foram:
+**Problemas encontrados:**
 
-- Inconsistencia de padrões,sendo ele a mudança de cor dos dias dos meses com disponibilidade de horário que não estejam na página do mês que o usuário está.
-- Sem prevenção de erros pois ha falta de verificação para tomada de decisões críticas e o não salvamento das escolhas efetuadas pelo o usuário antes de fazer login
-- Um aparecimento de erro direcionado ao programador não ao usuario
+- Inconsistência de padrões: há mudança na cor dos dias com horários disponíveis, especialmente quando não pertencem ao mês exibido na tela, o que pode gerar confusão.
+- Falta de prevenção de erros: o sistema não valida adequadamente ações críticas, como o não salvamento das escolhas realizadas antes do login.
+- Mensagens de erro inadequadas: alguns erros são apresentados de forma técnica, direcionados/as a programadores/as, e não aos/às usuários/as finais.
 
+---
 
 ## Delegacia Eletrônica da Polícia Civil do Distrito Federal
 
+**Link do site:** https://www.pcdf.df.gov.br/servicos/delegacia-eletronica
+
 ![delegacia eletronica](../images/planejamento/sites_avaliados/delegacia%20eletronica.png)
 
-Esse site serve para que cidadãos registrem boletins de ocorrência (BO) online de crimes e fatos de menor complexidade, sem precisar ir a uma delegacia física.
+O site permite que cidadãos e cidadãs registrem boletins de ocorrência (BO) de forma online, especialmente para casos de menor complexidade, evitando o deslocamento até uma delegacia física.
 
-Os problemas encontrados foram: 
+**Problemas encontrados:**
 
-- Posição do botão de registrar ocorrência
-- Excesso de informações no grupo “tipo de ocorrência”
-- Excesso de texto nos termos de uso
-- Redução de passos no preenchimento do boletim e quebra horizontal do formulário. 
+- Posição inadequada do botão de registro de ocorrência, dificultando sua identificação.
+- Excesso de informações na seção “tipo de ocorrência”, tornando o processo de escolha confuso.
+- Termos de uso com excesso de texto.
+- Processo de preenchimento do boletim poderia ser mais simples, além de apresentar problemas de layout (quebra horizontal do formulário).
 
+---
 
-## Agendamento de doação de sangue   
+## Agendamento de doação de sangue
+
+**Link do site:** https://www.fhb.df.gov.br/doacao-de-sangue/
 
 <img src="https://assets.infra.grancursosonline.com.br/projeto/fundacao-hemocentro-de-brasilia-1688662966.jpg" width="300">
 
-A funcionalide tem o objetivo de marcar doações de sangue podendo ser em grupo ou individual, monstrando os horarios e dias disponiveis.
+A funcionalidade permite o agendamento de doações de sangue, tanto individuais quanto em grupo, apresentando datas e horários disponíveis.
 
-os problemas encontrados foram:
+**Problemas encontrados:**
 
-- O usuário depara-se com uma tela de perguntas frequentes que não oferece botão de "Voltar" ou "Retornar ao Agendamento". O usuário fica retido, sendo obrigado a utilizar a seta de voltar do próprio navegador.
-- O sistema exibe uma mensagem de rastreamento de erro voltada a programadores ("The form component needs to have a UIForm in its ancestry..."), em inglês. 
-- O sistema apresenta as instruções finais e insere, no meio do texto, um link comum (na mesma aba) para os "Critérios para doação".
-- O cartão de exibição do agendamento concluído possui o status comunicado apenas por uma barra azul (design minimalista sem texto explicativo direto).
--Quando um cidadão não autenticado escolhe um horário no calendário, o sistema corretamente exige o login. Porém, após realizar o login, o sistema "esquece" o horário e a data previamente clicados, exigindo que o usuário retome todo o processo de busca e correndo o risco de o horário ter sido preenchido por outra pessoa nesse meio tempo.
+- Ausência de botão de retorno na tela de perguntas frequentes, obrigando o/a usuário/a a utilizar o botão do navegador.
+- Exibição de mensagens de erro técnicas, em inglês, voltadas a programadores/as.
+- Inserção de links no meio de instruções importantes, prejudicando a continuidade da leitura.
+- Feedback insuficiente: o status do agendamento é indicado apenas por elementos visuais, sem explicação textual clara.
+- Falta de persistência de dados: após o login, o sistema não mantém as escolhas previamente realizadas, obrigando o/a usuário/a a reiniciar o processo.
 
+---
 
+## Carteira de Identificação do Autista
 
-## Carteira de indentificação do autisma
+**Link do site:** https://goias.gov.br/social/carteira-de-identificacao-do-autista/
 
 ![carteira autista](../images/planejamento/sites_avaliados/governo%20goias.png)
 
-O site tem o objetivo de informar e dar os primeiros passos para os usuarios portadores TEA(trasntorno do especto autista) para o recebimento de sua carterinha.
+O site tem como objetivo orientar pessoas com Transtorno do Espectro Autista (TEA) quanto ao processo de solicitação da carteira de identificação.
 
-Os problemas encontrados foram: 
+**Problemas encontrados:**
 
-- O site não possui recursos para receber o upload do relatório médico, documentos e foto, interrompendo a interação na Web e exigindo comparecimento à Seds ou unidades do interior
+- Ausência de funcionalidade para upload de documentos (relatório médico, foto, entre outros), interrompendo o fluxo digital.
+- Necessidade de comparecimento presencial, reduzindo a eficiência do serviço online.
 
+---
 
-## Agendamento de pesssoas físicas no cartorio da cidade de Valparaíso de Goías 
+## Agendamento de pessoas físicas — Cartório de Valparaíso de Goiás
+
+**Link do site:** https://crvgo.com.br/
 
 <img src="https://crvgo.com.br/wp-content/uploads/2025/05/5-1024x576.png" width="300"> 
 
-O site tem como o objetivo, permite o agendamento de varios serviços para pessoas juridicas e físicas sem muitas complicações.
+O sistema permite o agendamento de diversos serviços cartoriais para pessoas físicas e jurídicas.
 
-Os problemas encontrados foram:
+**Problemas encontrados:**
 
-- Na aba de escolha do serviço, na qual existe uma regra de que pode ser feito apenas um serviço por agendamento entretanto a mensagem que aparece ao tentar selecionar outro serviço aparece apenas em inglês
-- No canto superior esquerdo da tela existe um botão que direciona o usuário para a página inicial, não havendo um jeito de voltar diretamente ao agendamento além de perder as informações do agendamento que estava sendo feito
-- Não há nenhuma forma de pessoas deficientes visuais conseguem ter acesso ao oque esta na pagina, não tendo um leitor de tela ou um acesso a libras para pessoas surdas
+- Mensagens exibidas apenas em inglês ao tentar selecionar mais de um serviço.
+- Navegação prejudicada: o botão disponível redireciona para a página inicial, fazendo com que o/a usuário/a perca os dados já inseridos.
+- Falta de acessibilidade: ausência de recursos para pessoas com deficiência visual (como leitores de tela) e auditiva (como suporte em Libras).
 
-O site escolhido pelo grupo para fazer o projeto da disciplina foi e-CAC, da Receita Federal, para mais informações sobre o site e o motivo de escolha veja a aba [site escolhido](../Planejamento/site_escolhido.md)
+---
+
+## Solicitação de 2ª via do Passe Livre Estudantil — BRB Mobilidade
+
+**Link do site:** https://brbnovo.brb.com.br/mobilidade/
+
+<img src="https://play-lh.googleusercontent.com/xMXmG-nmu4cUaw6svSU9EbMpGMJ4KObv1PHxQkcJA1t2QVTRVYElvPB7WuOA-tblXSi1" width="300">
+
+A funcionalidade analisada permite que estudantes solicitem a segunda via do cartão do Passe Livre Estudantil (PLE), em casos de perda, roubo ou dano.
+
+**Problemas encontrados:**
+
+- Falta de prevenção de erros no upload de arquivos: o sistema permite a seleção de arquivos inválidos e informa o erro apenas após o envio.
+- Inconsistência nas mensagens: o sistema informa que não é possível desfazer o envio de arquivos, porém permite a exclusão posteriormente, gerando confusão.
+
+---
+
+## Portal e-CAC — Receita Federal
+
+**Link do site:** https://cav.receita.fazenda.gov.br/ecac/
+
+<img src="https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2020/julho/acesso-gov-br-e-disponibilizado-para-o-portal-e-cac/ecac.jpg/@@images/b6ac10c8-a365-4826-aab4-982107381eec.jpeg" width="300">
+
+O portal e-CAC permite que cidadãos e cidadãs acessem diversos serviços fiscais, como emissão de certidões, consulta de pendências e envio de documentos.
+
+**Problemas encontrados:**
+
+- Falta de controle e liberdade do usuário: após certos redirecionamentos, não é possível retornar às etapas anteriores, gerando desorientação.
+- Risco de perda de dados: o sistema não possui salvamento automático, exigindo ação manual do/a usuário/a e podendo causar perda de informações em caso de falha.
+- Organização inadequada de botões: ações destrutivas como “Limpar” e “Cancelar” estão próximas de ações principais como “Salvar” e “Enviar”, aumentando o risco de erros.
+
+Os problemas identificados apresentam níveis de severidade elevados (grave e catastrófico), impactando diretamente a experiência do/a usuário/a e a confiabilidade do sistema.
+
+---
+
+O site escolhido pelo grupo para o desenvolvimento do projeto da disciplina foi o **e-CAC**, da Receita Federal. Para mais informações sobre a escolha, consulte a aba [site escolhido](../Planejamento/site_escolhido.md).
+
+---
 
 ## Versionamento
 
-| versão | data | Autor | tarefa realizada | Revisor |
-| ------ | ---- | ----- | --------------- | ---------| 
-| 1.0 | 10/04/2026 | [Heyttor Augusto](https://github.com/H3ytt0r62) | iniciação do documento | [Giovanna Aguiar ](https://github.com/giovannabrito19)|
-
+| Versão | Data | Autor(es/as) | Descrição | Revisor(es/as) |
+| ------ | ---- | ---------- | --------- | ------------ | 
+| 1.0 | 10/04/2026 | Heyttor Augusto | Iniciação do documento | Giovanna Aguiar |
+| 1.1 | 11/04/2026 | Giovanna Aguiar | Iniciação do documento | Giovanna Aguiar |
