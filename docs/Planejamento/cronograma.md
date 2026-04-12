@@ -237,6 +237,12 @@ Entrega não finalizada
 
 ---
 
+## Referência
+![modelo de cronograma](../images/planejamento/cronograma/modelo_cronograma.png)<br>
+O cronograma é uma adaptação do modelo acima feita pelos integrantes [Rafael](https://github.com/Romm-0) e [Giovanna](https://github.com/giovannabrito19) a partir do modelo de cronograma fornecido pelo professor da disciplina na plataforma Aprender 3
+
+---
+
 ## Versionamento
 
 
@@ -248,3 +254,4 @@ Entrega não finalizada
 | 0.4 | 10/04/2026 | Conclusão das tabelas | [Rafael Melatti](https://github.com/Romm-0) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
 | 1.0 | 10/04/2026 | Refatoração, correção das revisões, adição das rotas da fonte, "Expectativa vs Realidade", introdução, preenchimento total das tabelas | [Rafael Melatti](https://github.com/Romm-0) | Equipe |
 | 1.1 | 10/04/2026 | Correção de nomenclaturas | [Giovanna Aguiar](https://github.com/giovannabrito19)| Equipe |
+| 1.2 | 12/04/2026 | Adição das referências bibliográficas | [Rafael Melatti](https://github.com/Romm-0)| - |
