@@ -24,13 +24,7 @@ O integrante Lucas não pôde participar devido a compromissos pessoais, tendo r
 
 ## 2. Deliberações e Diretrizes do Projeto
 
-A pauta concentrou-se na inspeção do artefato por meio da [lista de verificação]() proposta pelo professor da disciplina. O grupo inspecionou o sítio a partir dos os seguintes critérios:
-
-Adicionar no formato
-
-- item 1
-
-- item 2
+A pauta concentrou-se na inspeção do artefato por meio da [lista de verificação](../inspecoes/lista_verificacao.md) proposta pelo professor da disciplina. O grupo inspecionou o sítio a partir dos critérios presentes na lista previamente referenciada.
 
 ---
 
@@ -56,7 +50,7 @@ Nada mais havendo a tratar, deu-se por encerrada a sessão. Para constar, eu, **
 
 ## 5. Reunião Gravada
 
-A reunião foi postada na plataforma Youtube e pode ser acessada via este link: https://youtu.be/9pPtQxLYqiA
+A reunião foi postada na plataforma Youtube e pode ser acessada via este link: [Reunião da Inspeção 1](https://youtu.be/9pPtQxLYqiA)
 
 ---
 
@@ -71,3 +65,4 @@ Este documento foi estruturado com base nos padrões de redação oficial da Ata
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 0.1 | 11/04/2026 | Criação do documento e inicialização do mesmo | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.0 | 12/04/2026 | Conclusão da ata | [Rafael Melatti](https://github.com/Romm-0) | - |

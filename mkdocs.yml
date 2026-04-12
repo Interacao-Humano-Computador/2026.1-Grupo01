@@ -52,6 +52,7 @@ nav:
   - Inspeções:
     - Inspeção 1: inspecoes/grupo_1/avaliacao_1.md
     - Inspeção Grupo+1: inspecoes/grupo_+1/avaliacao_1_+1.md
+    - Modelo da Lista de Verificação: inspecoes/lista_verificacao.md
 
   - Atas:
     - Ata 1: atas/ata_1.md
