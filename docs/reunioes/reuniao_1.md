@@ -24,7 +24,7 @@ Durante o encontro, foram discutidos os primeiros direcionamentos, divisão inic
 
 ## Mais informações
 
-Para mais detalhes sobre o que foi discutido na reunião, consulte a ata: [Acessar Ata da Reunião 1](../atas/ata1.md)
+Para mais detalhes sobre o que foi discutido na reunião, consulte a ata: [Acessar Ata da Reunião 1](../atas/ata_1.md)
 
 ---
 
