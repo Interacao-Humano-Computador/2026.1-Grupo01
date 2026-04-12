@@ -18,13 +18,9 @@ A literatura da área apresenta uma variedade de modelos de processo de design. 
 
 É um ciclo básico focado no usuário e composto por quatro atividades interativas: identificar necessidades e definir requisitos, realizar o (re)design conceitual, construir uma versão interativa que simula o funcionamento da interface, e avaliar a solução proposta. [(Figura 8)](#anexos)
 
-<p style="text-align: center;">
-    Figura 1 - Ciclo de vida simples.
-    <br>
-    <img width="50%" alt="image" id="Figura-1" src="../images/planejamento/processos-de-design/Figura 1 - Ciclo de vida simples.png">
-    <br>
-    Fonte: BARBOSA (2010, p. 114)
-</p>
+Figura 1 - Ciclo de vida simples.
+![imagem1](../images/planejamento/processos-de-design/Figura%201%20-%20Ciclo%20de%20vida%20simples.png)
+Fonte: BARBOSA (2010, p. 114)
 
 ---
 
@@ -32,13 +28,11 @@ A literatura da área apresenta uma variedade de modelos de processo de design. 
 
 Desenvolvido no início da década de 1990, possui seis atividades que estão todas interligadas pela avaliação contínua, que é a atividade central do modelo. É bastante flexível, pois o designer não precisa seguir uma sequência estrita e pode iniciar o processo a partir de qualquer atividade, dependendo do que já estiver disponível no início do projeto. [(Figura 9)](#anexos)
 
-<p style="text-align: center;">
-    Figura 2 - Ciclo de vida em estrela.
-    <br>
-    <img width="50%" alt="image" id="Figura-2" src="../images/planejamento/processos-de-design/Figura 2 - Ciclo de vida em estrela..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 114)
-</p>
+Figura 2 - Ciclo de vida em estrela.
+
+![imagem 2](../images/planejamento/processos-de-design/Figura%202%20-%20Ciclo%20de%20vida%20em%20estrela..png)
+
+Fonte: BARBOSA (2010, p. 114)
 
 ---
 
@@ -52,13 +46,9 @@ Propõe um conjunto de dez atividades que devem ocorrer durante todo o ciclo de 
 
 Com uma visão holística, organiza o processo de design em três grandes fases iterativas: análise de requisitos, design/avaliação/desenvolvimento e instalação. O seu diferencial é propor a concepção da solução de IHC em três níveis de detalhamento: primeiro o modelo conceitual, depois os padrões de design de tela, e por fim o design detalhado da interface. [(Figura 11)](#anexos)
 
-<p style="text-align: center;">
-    Figura 3 - Ciclo de vida para a engenharia de usabilidade (adaptado de Mayhew, 1999).
-    <br>
-    <img width="50%" alt="image" id="Figura-3" src="../images/planejamento/processos-de-design/Figura 3 - Ciclo de vida para a engenharia de usabilidade.png">
-    <br>
-    Fonte: BARBOSA (2010, p. 120)
-</p>
+Figura 3 - Ciclo de vida para a engenharia de usabilidade (adaptado de Mayhew, 1999).
+![imagem3](../images/planejamento/processos-de-design/Figura%203%20-%20Ciclo%20de%20vida%20para%20a%20engenharia%20de%20usabilidade.png)
+Fonte: BARBOSA (2010, p. 120)
 
 ---
 
@@ -72,13 +62,13 @@ Orientado a compreender as necessidades dos usuários de forma profunda por meio
 
 Utiliza cenários (histórias narrativas sobre pessoas executando atividades) como a representação fundamental ao longo de todo o processo de concepção. A equipe inicia com cenários que relatam os problemas atuais e os transforma iterativamente em cenários de atividade, cenários de informação e, por último, cenários de interação detalhados. [(Figura 13)](#anexos)
 
-<p style="text-align: center;">
-    Figura 4 - Atividades do design baseado em cenários.
-    <br>
-    <img width="50%" alt="image" id="Figura-4" src="../images/planejamento/processos-de-design/Figura 4 - Atividades do design baseado em cenários..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 122)
-</p>
+
+Figura 4 - Atividades do design baseado em cenários.
+    
+![imagem 4](../images/planejamento/processos-de-design/Figura%204%20-%20Atividades%20do%20design%20baseado%20em%20cenários..png)
+
+Fonte: BARBOSA (2010, p. 122)
+
 
 ---
 
@@ -86,13 +76,12 @@ Utiliza cenários (histórias narrativas sobre pessoas executando atividades) co
 
 Diferencia-se por tentar explorar o máximo das possibilidades tecnológicas para apoiar os objetivos finais dos usuários de forma inovadora e eficiente. O foco é não limitar o novo sistema apenas a replicar a mesma sequência de tarefas ou a maneira como o trabalho era feito no passado. O processo possui seis fases: pesquisar, modelar, definir requisitos, projetar, refinar e manter. [(Figura 14)](#anexos)
 
-<p style="text-align: center;">
-    Figura 5 - Processo de design dirigido por objetivos (adaptado de (Cooper et al., 2014, p. 23)).
-    <br>
-    <img width="50%" alt="image" id="Figura-5" src="../images/planejamento/processos-de-design/Figura 5 - Processo de design dirigido por objetivos (adaptado de (Cooper et al., 2014, p. 23))..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 124)
-</p>
+
+Figura 5 - Processo de design dirigido por objetivos (adaptado de (Cooper et al., 2014, p. 23)).
+    
+![imagem 5](../images/planejamento/processos-de-design/Figura%205%20-%20Processo%20de%20design%20dirigido%20por%20objetivos%20(adaptado%20de%20(Cooper%20et%20al.,%202014,%20p.%2023))..png)
+    
+Fonte: BARBOSA (2010, p. 124)
 
 ---
 
@@ -100,13 +89,13 @@ Diferencia-se por tentar explorar o máximo das possibilidades tecnológicas par
 
 Baseado na teoria da Engenharia Semiótica, compreende a interação como um processo de comunicação entre o designer e o usuário através da interface. O principal objetivo é produzir um sistema com alta comunicabilidade, onde a "metacomunicação" do designer seja clara, norteando os esforços de design por um conjunto de perguntas que buscam antecipar e responder às possíveis dúvidas típicas dos usuários durante o uso (como "O que é isto?" ou "Como faço isto?").  [(Figura 15)](#anexos)
 
-<p style="text-align: center;">
-    Figura 6 - Design centrado na comunicação.
-    <br>
-    <img width="50%" alt="image" id="Figura-6" src="../images/planejamento/processos-de-design/Figura 6 - Design centrado na comunicação..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 126)
-</p>
+
+Figura 6 - Design centrado na comunicação.
+
+![imagem 6](../images/planejamento/processos-de-design/Figura%206%20-%20Design%20centrado%20na%20comunicação..png)
+
+Fonte: BARBOSA (2010, p. 126)
+
 
 ---
 
@@ -130,81 +119,79 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Métodos de Avaliaçã
 
 # ANEXOS
 
-<p style="text-align: center;">
-    Figura 7 – Seção do livro que cita os processos de design de IHC
-    <br>
-    <img width="50%" alt="image" id="Figura-7" src="../images/planejamento/processos-de-design/Figura 7 – Seção do livro que cita os processos de design de IHC.png">
-    <br>
-    Fonte: BARBOSA (2010, p. 112)
-</p>
 
-<p style="text-align: center;">
-    Figura 8 - Seção do livro que cita o ciclo de vida simples
-    <br>
-    <img width="50%" alt="image" id="Figura-8" src="../images/planejamento/processos-de-design/Figura 8 - Seção do livro que cita o ciclo de vida simples.png">
-    <br>
-    Fonte: BARBOSA (2010, p. 114)
-</p>
+Figura 7 – Seção do livro que cita os processos de design de IHC
+    
+![imagem 7](../images/planejamento/processos-de-design/Figura%207%20–%20Seção%20do%20livro%20que%20cita%20os%20processos%20de%20design%20de%20IHC.png)
+    
+Fonte: BARBOSA (2010, p. 112)
 
-<p style="text-align: center;">
-    Figura 9 - Seção do livro que cita o ciclo de vida em estrela.
-    <br>
-    <img width="50%" alt="image" id="Figura-9" src="../images/planejamento/processos-de-design/Figura 9 - Seção do livro que cita o ciclo de vida em estrela..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 115-116)
-</p>
 
-<p style="text-align: center;">
-    Figura 10 - Seção do livro que cita o ciclo de vida em estrela.
-    <br>
-    <img width="50%" alt="image" id="Figura-10" src="../images/planejamento/processos-de-design/Figura 10 - Seção do livro que cita o ciclo de vida em estrela..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 116-119)
-</p>
+Figura 8 - Seção do livro que cita o ciclo de vida simples
 
-<p style="text-align: center;">
-    Figura 11 - Seção do livro que cita a engenharia de usabilidade de Mayhew.
-    <br>
-    <img width="50%" alt="image" id="Figura-11" src="../images/planejamento/processos-de-design/Figura 11 - Seção do livro que cita a engenharia de usabilidade de Mayhew..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 119-121)
-</p>
+![imagem 8](../images/planejamento/processos-de-design/Figura%208%20-%20Seção%20do%20livro%20que%20cita%20o%20ciclo%20de%20vida%20simples.png)
 
-<p style="text-align: center;">
-    Figura 12 - Seção do livro que cita Design Contextual.
-    <br>
-    <img width="50%" alt="image" id="Figura-12" src="../images/planejamento/processos-de-design/Figura 12 - Seção do livro que cita Design Contextual.png">
-    <br>
-    Fonte: BARBOSA (2010, p. 121-122)
-</p>
+Fonte: BARBOSA (2010, p. 114)
 
-<p style="text-align: center;">
-    Figura 13 - Seção do livro que cita o design baseado em cenários.
-    <br>
-    <img width="50%" alt="image" id="Figura-13" src="../images/planejamento/processos-de-design/Figura 13 - Seção do livro que cita o design baseado em cenários..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 122-123)
-</p>
 
-<p style="text-align: center;">
-    Figura 14 - Seção do livro que cita o design dirigido por objetivos.
-    <br>
-    <img width="50%" alt="image" id="Figura-14" src="../images/planejamento/processos-de-design/Figura 14 - Seção do livro que cita o design dirigido por objetivos..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 123-125)
-</p>
+Figura 9 - Seção do livro que cita o ciclo de vida em estrela.
+    
+![imagem 9 ](../images/planejamento/processos-de-design/Figura%209%20-%20Seção%20do%20livro%20que%20cita%20o%20ciclo%20de%20vida%20em%20estrela..png)
+    
+Fonte: BARBOSA (2010, p. 115-116)
 
-<p style="text-align: center;">
-    Figura 15 - Seção do livro que cita o design centrado na comunicação.
-    <br>
-    <img width="50%" alt="image" id="Figura-15" src="../images/planejamento/processos-de-design/Figura 15 - Seção do livro que cita o design centrado na comunicação..png">
-    <br>
-    Fonte: BARBOSA (2010, p. 125-127)
-</p>
+
+Figura 10 - Seção do livro que cita o ciclo de vida em estrela.
+    
+![imagem 10](../images/planejamento/processos-de-design/Figura%2010%20-%20Seção%20do%20livro%20que%20cita%20o%20ciclo%20de%20vida%20em%20estrela..png)
+    
+Fonte: BARBOSA (2010, p. 116-119)
+
+
+
+Figura 11 - Seção do livro que cita a engenharia de usabilidade de Mayhew.
+    
+![imagem 11](../images/planejamento/processos-de-design/Figura%2011%20-%20Seção%20do%20livro%20que%20cita%20a%20engenharia%20de%20usabilidade%20de%20Mayhew..png)
+    
+Fonte: BARBOSA (2010, p. 119-121)
+
+Figura 12 - Seção do livro que cita Design Contextual.
+    
+![imagem 12](../images/planejamento/processos-de-design/Figura%2012%20-%20Seção%20do%20livro%20que%20cita%20Design%20Contextual.png)
+    
+Fonte: BARBOSA (2010, p. 121-122)
+
+
+
+Figura 13 - Seção do livro que cita o design baseado em cenários.
+
+![imagem 13](../images/planejamento/processos-de-design/Figura%2013%20-%20Seção%20do%20livro%20que%20cita%20o%20design%20baseado%20em%20cenários..png)
+    
+Fonte: BARBOSA (2010, p. 122-123)
+
+
+
+Figura 14 - Seção do livro que cita o design dirigido por objetivos.
+
+![imagem 14](../images/planejamento/processos-de-design/Figura%2014%20-%20Seção%20do%20livro%20que%20cita%20o%20design%20dirigido%20por%20objetivos..png)
+    
+Fonte: BARBOSA (2010, p. 123-125)
+
+
+
+Figura 15 - Seção do livro que cita o design centrado na comunicação.
+    
+![imagem 15](../images/planejamento/processos-de-design/Figura%2015%20-%20Seção%20do%20livro%20que%20cita%20o%20design%20centrado%20na%20comunicação..png)
+    
+Fonte: BARBOSA (2010, p. 125-127)
+
 
 ## Versionamento
 
-| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento | [Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
+
+|Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+| -----| ------| ----------| -------------| ---------------|
+| 1.0 | 11/04/2026| Iniciação do documento | [lucas gabriel](https://github.com/lucaszg-g) |  |
 | 1.1 | 11/04/2026 | Adição do versionamento | [Rafael Melatti](https://github.com/Romm-0) | Equipe |
+| 1.2| 11/04/2026 | correção das imagens | [heyttor augusto](https://github.com/H3ytt0r62) | |
+
