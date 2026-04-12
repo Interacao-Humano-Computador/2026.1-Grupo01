@@ -193,5 +193,5 @@ Fonte: BARBOSA (2010, p. 125-127)
 | -----| ------| ----------| -------------| ---------------|
 | 1.0 | 11/04/2026| Iniciação do documento | [lucas gabriel](https://github.com/lucaszg-g) |  |
 | 1.1 | 11/04/2026 | Adição do versionamento | [Rafael Melatti](https://github.com/Romm-0) | Equipe |
-| 1.2| 111/04/2026 | correção das imagens | [heyttor augusto](https://github.com/H3ytt0r62) | |
+| 1.2| 11/04/2026 | correção das imagens | [heyttor augusto](https://github.com/H3ytt0r62) | |
 
