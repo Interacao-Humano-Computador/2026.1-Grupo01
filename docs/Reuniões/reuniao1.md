@@ -30,6 +30,7 @@ Para mais detalhes sobre o que foi discutido na reunião, consulte a ata: [Acess
 
 ## Versionamento
 
-| Versão | Data       | Tarefa realizada                                      | Autor              | Revisor            |
-|--------|------------|------------------------------------------------------|--------------------|--------------------|
-| 1.0    | 10/04/2026 | Registro da Reunião 1 e inserção do vídeo | [Giovanna Aguiar ](https://github.com/giovannabrito19)    | [Rafael Melatti](https://github.com/Romm-0)   |
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 10/04/2026 | Registro da Reunião 1 e inserção do vídeo | [Giovanna Aguiar](https://github.com/giovannabrito19) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.1 | 11/04/2026 | Correção do versionamento | [Rafael Melatti](https://github.com/Romm-0) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
