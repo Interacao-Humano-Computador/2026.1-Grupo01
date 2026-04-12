@@ -37,9 +37,10 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 - [When2meet](https://www.when2meet.com/)
 - [Youtube](https://www.youtube.com/)
 
-## Histórico de Versão
+## Versionamento
 
-| Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
-| :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-| 1.0 | Criação da página de ferramentas | [Thiago Gomes](https://github.com/thgomxs) | 09/04/2026 | Giovanna Aguiar | 09/04/2026 |
-| 1.1 | Adição da ferramenta When2meet | [Thiago Gomes](https://github.com/thgomxs) | 11/04/2026 | Giovanna Aguiar | 11/04/2026 |
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 09/04/2026 | Criação da página de ferramentas | [Thiago Gomes](https://github.com/thgomxs) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
+| 1.1 | 11/04/2026 | Adição da ferramenta When2meet | [Thiago Gomes](https://github.com/thgomxs) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
+| 1.2 | 11/04/2026 | Correção do versionamento | [Rafael Melatti](https://github.com/Romm-0) | [Giovanna Aguiar](https://github.com/giovannabrito19) |

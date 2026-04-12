@@ -19,6 +19,7 @@ Este modelo foi baseado na Ata da 6ª Reunião Ordinária do Comitê de Governan
 
 ## Versionamento
 
-| Data       | Tarefa realizada                               | Autor           | Revisor         |
-|------------|-----------------------------------------------|----------------|-----------------|
-|10/04/2026| Criação do documento e inicialização do mesmo | [Giovanna Aguiar ](https://github.com/giovannabrito19)| [Rafael Melatti](https://github.com/Romm-0) |
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 10/04/2026 | Criação do documento e inicialização do mesmo | [Giovanna Aguiar ](https://github.com/giovannabrito19)| [Rafael Melatti](https://github.com/Romm-0) |
+| 1.1 | 11/04/2026 | Adição da versão | [Rafael Melatti](https://github.com/Romm-0)| [Giovanna Aguiar ](https://github.com/giovannabrito19) |
