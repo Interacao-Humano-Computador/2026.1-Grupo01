@@ -33,7 +33,7 @@ Esse Google Docs/ VScode foi estruturado com o objetivo de servir como um guia d
 | Apresentação etapa 1 | Sala de Sala de Aula | Data: 14/04 | - | - | - |
 | Correções pós apresentação | Discord | Início: 14/04 <br>Fim: 15/04 | [Giovanna](https://github.com/giovannabrito19), [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 16/04 <br>Fim: 17/04 | Thiago, Rafael |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti](https://github.com/Romm-0) e [Giovanna Aguiar](https://github.com/giovannabrito19).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Rafael Melatti](https://github.com/Romm-0).</p></font>
 
 ###  Realidade: 
 Entrega não finalizada
@@ -48,8 +48,8 @@ Entrega não finalizada
 
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
-| Definição do perfil do usuário | Google Docs/ VScode | Início: 18/04 <br>Fim: 22/04 | Giovanna, Thiago | Início: 23/04 <br>Fim: 23/04 | Lucas, Heyttor |
-| Levantamento de aspectos éticos | Google Docs/ VScode | Início: 16/04 <br>Fim: 22/04 | Rafael, Heyttor, Yasmim | Início: 23/04 <br>Fim: 23/04 | Giovanna, João, Thiago |
+| Definição do perfil do usuário | Google Docs/ VScode | Início: 18/04 <br>Fim: 22/04 | Thiago | Início: 23/04 <br>Fim: 23/04 | Lucas, Heyttor |
+| Levantamento de aspectos éticos | Google Docs/ VScode | Início: 16/04 <br>Fim: 22/04 | Rafael, Heyttor, Yasmim | Início: 23/04 <br>Fim: 23/04 | João, Thiago |
 | Análise de tarefas | Miro | Início: 22/04 <br>Fim: 30/04 | João, Lucas | Início: 01/05 <br>Fim: 01/05 | Yasmim, Rafael |
 | Gravação do vídeo | OBS | Início: 02/05 <br>Fim: 02/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 02/05 <br>Fim: 02/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) |
 | Preparar apresentação etapa 2 | Discord | Início: 02/05 <br>Fim: 03/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 03/05 <br>Fim: 03/05 | Lucas |
@@ -57,9 +57,9 @@ Entrega não finalizada
 | Inspeção grupo-1 etapa 2 | Discord | Início: 03/05 <br>Fim: 04/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 04/05 <br>Fim: 04/05 | Yasmim |
 | Correção pós-inspeção | Discord | Início: 04/05 <br>Fim: 04/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 04/05 <br>Fim: 04/05 | Heyttor, Rafael |
 | Apresentação etapa 2 | Sala de Aula | Data: 05/05 | - | - | - |
-| Correções pós apresentação | Discord | Início: 05/05 <br>Fim: 06/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 07/05 <br>Fim: 07/05 | Giovanna, Lucas |
+| Correções pós apresentação | Discord | Início: 05/05 <br>Fim: 06/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 07/05 <br>Fim: 07/05 | Lucas |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti](https://github.com/Romm-0) e [Giovanna Aguiar](https://github.com/giovannabrito19).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Rafael Melatti](https://github.com/Romm-0).</p></font>
 
 ###  Realidade: 
 Entrega não finalizada
@@ -76,18 +76,18 @@ Entrega não finalizada
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
 | Criação do guia de estilo | Figma | Início: 04/05 <br>Fim: 10/05 | Lucas, Heyttor | Início: 11/05 <br>Fim: 11/05 | Rafael, João |
 | Definição dos princípios do projeto | Google Docs/ VScode | Início: 05/05 <br>Fim: 09/05 | Rafael, João | Início: 10/05 <br>Fim: 10/05 | Yasmim, Thiago |
-| Definição das metas de usabilidade | Google Docs/ VScode | Início: 05/05 <br>Fim: 09/05 | Yasmim, Thiago | Início: 10/05 <br>Fim: 10/05 | Giovanna, Lucas |
+| Definição das metas de usabilidade | Google Docs/ VScode | Início: 05/05 <br>Fim: 09/05 | Yasmim, Thiago | Início: 10/05 <br>Fim: 10/05 | Lucas |
 | Aprimorar github pages | Github | Início: 05/05 <br>Fim: 08/05 | Heyttor, Rafael, João | Início: 09/05 <br>Fim: 09/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) |
-| Características da plataforma | Google Docs/ VScode | Início: 06/05 <br>Fim: 09/05 | Giovanna, Lucas | Início: 10/05 <br>Fim: 10/05 | Heyttor |
+| Características da plataforma | Google Docs/ VScode | Início: 06/05 <br>Fim: 09/05 | Lucas | Início: 10/05 <br>Fim: 10/05 | Heyttor |
 | Gravação do vídeo | OBS | Início: 11/05 <br>Fim: 11/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 11/05 <br>Fim: 11/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) |
-| Preparar apresentação etapa 3 | Discord | Início: 11/05 <br>Fim: 12/05 | Equipe | Início: 12/05 <br>Fim: 12/05 | Rafael |
+| Preparar apresentação etapa 3 | Discord | Início: 11/05 <br>Fim: 12/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 12/05 <br>Fim: 12/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) |
 | Entrega da apresentação etapa 3 | Aprender3 | Data: 12/05 | - | - | - |
-| Inspeção grupo+1 etapa 3 | Discord | Início: 12/05 <br>Fim: 13/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 13/05 <br>Fim: 13/05 | Giovanna |
+| Inspeção grupo+1 etapa 3 | Discord | Início: 12/05 <br>Fim: 13/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 13/05 <br>Fim: 13/05 | - |
 | Correção pós-inspeção | Discord | Início: 13/05 <br>Fim: 13/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 13/05 <br>Fim: 13/05 | João, Lucas |
 | Apresentação etapa 3 | Sala de Aula | Data: 14/05 | - | - | - |
 | Correções pós apresentação | Discord | Início: 14/05 <br>Fim: 15/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 16/05 <br>Fim: 16/05 | Thiago, Yasmim |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti](https://github.com/Romm-0) e [Giovanna Aguiar](https://github.com/giovannabrito19).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Rafael Melatti](https://github.com/Romm-0).</p></font>
 
 ###  Realidade: 
 Entrega não finalizada
@@ -103,18 +103,18 @@ Entrega não finalizada
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
 | Planejamento da avaliação do storyboard | Miro | Início: 11/05 <br>Fim: 14/05 | Heyttor, Rafael | Início: 15/05 <br>Fim: 15/05 | João |
-| Planejamento da avaliação da análise de tarefas | Miro | Início: 12/05 <br>Fim: 16/05 | Lucas, Yasmim | Início: 17/05 <br>Fim: 17/05 | Giovanna, Thiago |
+| Planejamento da avaliação da análise de tarefas | Miro | Início: 12/05 <br>Fim: 16/05 | Lucas, Yasmim | Início: 17/05 <br>Fim: 17/05 | Thiago |
 | Planejamento do relato (storyboard) | Google Docs/ VScode | Início: 14/05 <br>Fim: 17/05 | João, Yasmim | Início: 18/05 <br>Fim: 18/05 | Lucas, Yasmim |
-| Planejamento do relato (análise de tarefas) | Google Docs/ VScode | Início: 14/05 <br>Fim: 17/05 | Giovanna, Thiago | Início: 18/05 <br>Fim: 18/05 | Heyttor, Rafael |
+| Planejamento do relato (análise de tarefas) | Google Docs/ VScode | Início: 14/05 <br>Fim: 17/05 | Thiago | Início: 18/05 <br>Fim: 18/05 | Heyttor, Rafael |
 | Gravação do vídeo | OBS | Início: 18/05 <br>Fim: 18/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 18/05 <br>Fim: 18/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) |
 | Preparar apresentação etapa 4 | Discord | Início: 18/05 <br>Fim: 19/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 19/05 <br>Fim: 19/05 | Yasmim |
 | Entrega da apresentação etapa 4 | Aprender3 | Data: 19/05 | - | - | - |
 | Inspeção grupo+1 etapa 4 | Discord | Início: 19/05 <br>Fim: 20/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 20/05 <br>Fim: 20/05 | Heyttor |
 | Correção pós-inspeção | Discord | Início: 20/05 <br>Fim: 20/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 20/05 <br>Fim: 20/05 | Lucas, Rafael |
 | Apresentação etapa 4 | Sala de Aula | Data: 21/05 | - | - | - |
-| Correções pós apresentação | Discord | Início: 21/05 <br>Fim: 22/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 23/05 <br>Fim: 23/05 | Giovanna, João |
+| Correções pós apresentação | Discord | Início: 21/05 <br>Fim: 22/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 23/05 <br>Fim: 23/05 | João |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti](https://github.com/Romm-0) e [Giovanna Aguiar](https://github.com/giovannabrito19).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Rafael Melatti](https://github.com/Romm-0).</p></font>
 
 ###  Realidade: 
 Entrega não finalizada
@@ -129,19 +129,19 @@ Entrega não finalizada
 
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
-| Relato dos resultados do storyboard | Google Docs/ VScode | Início: 19/05 <br>Fim: 24/05 | Lucas, Heyttor | Início: 25/05 <br>Fim: 25/05 | Giovanna, Yasmim |
-| Relato da análise de tarefas | Google Docs/ VScode | Início: 20/05 <br>Fim: 25/05 | Giovanna, Yasmim | Início: 26/05 <br>Fim: 26/05 | João, Rafael |
+| Relato dos resultados do storyboard | Google Docs/ VScode | Início: 19/05 <br>Fim: 24/05 | Lucas, Heyttor | Início: 25/05 <br>Fim: 25/05 | Yasmim |
+| Relato da análise de tarefas | Google Docs/ VScode | Início: 20/05 <br>Fim: 25/05 | Yasmim | Início: 26/05 <br>Fim: 26/05 | João, Rafael |
 | Planejamento da avaliação do protótipo de papel | Discord | Início: 20/05 <br>Fim: 27/05 | João, Rafael | Início: 28/05 <br>Fim: 28/05 | Thiago |
-| Planejamento do relato do protótipo de papel | Google Docs/ VScode | Início: 24/05 <br>Fim: 29/05 | Thiago, Giovanna | Início: 30/05 <br>Fim: 30/05 | Lucas, Heyttor |
+| Planejamento do relato do protótipo de papel | Google Docs/ VScode | Início: 24/05 <br>Fim: 29/05 | Thiago | Início: 30/05 <br>Fim: 30/05 | Lucas, Heyttor |
 | Gravação do vídeo | OBS | Início: 30/05 <br>Fim: 30/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 30/05 <br>Fim: 30/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) |
-| Preparar apresentação etapa 5 | Discord | Início: 30/05 <br>Fim: 31/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 31/05 <br>Fim: 31/05 | Giovanna |
+| Preparar apresentação etapa 5 | Discord | Início: 30/05 <br>Fim: 31/05 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 31/05 <br>Fim: 31/05 | - |
 | Entrega da apresentação etapa 5 | Aprender3 | Data: 31/05 | - | - | - |
 | Inspeção grupo+1 etapa 5 | Discord | Início: 31/05 <br>Fim: 01/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 01/06 <br>Fim: 01/06 | João |
 | Correção pós-inspeção | Discord | Início: 01/06 <br>Fim: 01/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 01/06 <br>Fim: 01/06 | Thiago, Rafael |
 | Apresentação etapa 5 | Sala de Aula | Data: 02/06 | - | - | - |
 | Correções pós apresentação | Discord | Início: 02/06 <br>Fim: 03/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 04/06 <br>Fim: 04/06 | Heyttor, Yasmim |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti](https://github.com/Romm-0) e [Giovanna Aguiar](https://github.com/giovannabrito19).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Rafael Melatti](https://github.com/Romm-0).</p></font>
 
 ###  Realidade: 
 Entrega não finalizada
@@ -157,17 +157,17 @@ Entrega não finalizada
 | Atividade | Local | Período para o desenvolvimento das atividades | Responsáveis | Período para a revisão | Revisores |
 | --------------------------------- | ---------------- | --------------------- | ------------------ | ---------------------------- | ----------------|
 | Relato dos resultados do protótipo de papel | Google Docs/ VScode | Início: 01/06 <br>Fim: 04/06 | Heyttor, Thiago | Início: 05/06 <br>Fim: 05/06 | Rafael, João, Yasmim |
-| Planejamento da avaliação do protótipo de alta fidelidade | Figma | Início: 03/06 <br>Fim: 05/06 | Rafael, João, Yasmim | Início: 05/06 <br>Fim: 06/06 | Giovanna, Lucas |
-| Planejamento do relato (alta fidelidade) | Google Docs/ VScode | Início: 04/06 <br>Fim: 05/06 | Giovanna, Lucas | Início: 05/06 <br>Fim: 06/06 | Heyttor, Thiago |
+| Planejamento da avaliação do protótipo de alta fidelidade | Figma | Início: 03/06 <br>Fim: 05/06 | Rafael, João, Yasmim | Início: 05/06 <br>Fim: 06/06 | Lucas |
+| Planejamento do relato (alta fidelidade) | Google Docs/ VScode | Início: 04/06 <br>Fim: 05/06 | Lucas | Início: 05/06 <br>Fim: 06/06 | Heyttor, Thiago |
 | Gravação do vídeo | OBS | Início: 06/06 <br>Fim: 06/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 07/06 <br>Fim: 07/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) |
 | Preparar apresentação etapa 6 | Discord | Início: 06/06 <br>Fim: 07/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 07/06 <br>Fim: 07/06 | Heyttor |
 | Entrega da apresentação etapa 6 | Aprender3 | Data: 07/06 | - | - | - |
 | Inspeção grupo+1 etapa 6 | Discord | Início: 07/06 <br>Fim: 08/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 08/06 <br>Fim: 08/06 | Lucas |
-| Correção pós-inspeção | Discord | Início: 08/06 <br>Fim: 08/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 08/06 <br>Fim: 08/06 | Giovanna, Yasmim |
+| Correção pós-inspeção | Discord | Início: 08/06 <br>Fim: 08/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 08/06 <br>Fim: 08/06 | Yasmim |
 | Apresentação etapa 6 | Sala de Aula | Data: 09/06 | - | - | - |
 | Correções pós apresentação | Discord | Início: 09/06 <br>Fim: 10/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 11/06 <br>Fim: 11/06 | Rafael, João |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti](https://github.com/Romm-0) e [Giovanna Aguiar](https://github.com/giovannabrito19).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Rafael Melatti](https://github.com/Romm-0).</p></font>
 
 ###  Realidade: 
 Entrega não finalizada
@@ -189,9 +189,9 @@ Entrega não finalizada
 | Inspeção grupo+1 etapa 7 | Discord | Início: 16/06 <br>Fim: 17/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 17/06 <br>Fim: 17/06 | Thiago |
 | Correção pós-inspeção | Discord | Início: 17/06 <br>Fim: 17/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 17/06 <br>Fim: 17/06 | Heyttor, Rafael |
 | Apresentação etapa 7 | Sala de Aula | Data: 18/06 | - | - | - |
-| Correções pós apresentação | Discord | Início: 18/06 <br>Fim: 19/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 20/06 <br>Fim: 20/06 | Giovanna, Lucas |
+| Correções pós apresentação | Discord | Início: 18/06 <br>Fim: 19/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 20/06 <br>Fim: 20/06 | Lucas |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti](https://github.com/Romm-0) e [Giovanna Aguiar](https://github.com/giovannabrito19).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Rafael Melatti](https://github.com/Romm-0).</p></font>
 
 ###  Realidade: 
 Entrega não finalizada
@@ -215,7 +215,7 @@ Entrega não finalizada
 | Apresentação etapa 8 | Sala de Aula | Data: 25/06 | - | - | - |
 | Correções pós apresentação | Discord | Início: 25/06 <br>Fim: 26/06 | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) | Início: 27/06 <br>Fim: 27/06 | Heyttor, Lucas |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti](https://github.com/Romm-0) e [Giovanna Aguiar](https://github.com/giovannabrito19).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Rafael Melatti](https://github.com/Romm-0).</p></font>
 
 ###  Realidade: 
 Entrega não finalizada
@@ -233,7 +233,7 @@ Entrega não finalizada
 | Entrega da apresentação final | Aprender3 | Data: 01/07 | - | - | - |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Melatti](https://github.com/Romm-0) e [Giovanna Aguiar](https://github.com/giovannabrito19).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Rafael Melatti](https://github.com/Romm-0).</p></font>
 
 ---
 
@@ -256,3 +256,4 @@ O cronograma é uma adaptação do modelo acima feita pelos integrantes [Rafael]
 | 1.1 | 10/04/2026 | Correção de nomenclaturas | [Giovanna Aguiar](https://github.com/giovannabrito19)| [Giovanna](https://github.com/giovannabrito19), [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) |
 | 1.2 | 12/04/2026 | Adição das referências bibliográficas | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.3 | 14/04/2026 | Nomes dos integrantes em formato de link para o github de cada um e mudança de grupo+1 para grupo-1 na entrega 2 | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.4 | 14/04/2026 | Retirada do nome da Giovanna das tarefas atribuídas a partir da Entrega 2, participante que trancou a matéria| [João Morais](https://github.com/Blazemorales) | - |
