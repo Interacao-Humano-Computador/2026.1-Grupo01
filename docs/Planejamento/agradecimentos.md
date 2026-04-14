@@ -5,7 +5,8 @@ Como foi solicitado pelo professor da matéria, o grupo 1 gostaria de agradecer 
 
 - ChatGPT
 - Gemini
-- Cloud
+- Claude
+- notebook LM
 
 Por auxiliarem o grupo com correções de gramática e correções de códigos Markdonw, mas o grupo também gostaria de deixar claro que **em NENHUM momento** as IAs generativas foram usadas para Obteção respostas, aconselhamentos, ou decisões sobre os projeto ou sobre o conteúdo ministrado na disciplina.
 
