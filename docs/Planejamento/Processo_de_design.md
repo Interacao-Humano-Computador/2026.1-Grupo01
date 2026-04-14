@@ -1,4 +1,4 @@
-# 1 INTRODUÇÃO
+# INTRODUÇÃO
 
 O design é um processo fundamentalmente composto por três atividades: a análise da situação existente (ou identificação do problema), a criação (síntese) de uma intervenção e, por fim, a avaliação dessa intervenção, seja ela apenas projetada ou já implementada no contexto atual. Cada processo de design especifica detalhadamente as atividades básicas, estabelecendo o método de execução de cada atividade, a ordem sequencial em que devem ocorrer, quais atividades podem ser iteradas e os motivos dessa repetição e os artefatos utilizados (consumidos) e gerados (produzidos) em cada etapa. [¹](#anexos)
 
@@ -6,15 +6,15 @@ Em vista disso, os processos de design em Interação Humano-Computador (IHC) co
 
 ---
 
-# 2 DESENVOLVIMENTO
+# DESENVOLVIMENTO
 
-## 2.1 PRINCIPAIS MODELOS
+## PRINCIPAIS MODELOS
 
 A literatura da área apresenta uma variedade de modelos de processo de design. Esses modelos detalham as atividades básicas de forma distinta, enfatizando diferentes sequências, perspectivas e artefatos. Entre eles, destacam-se os principais processos de design propostos:
 
 ---
 
-### 2.1.1 Ciclo de Vida Simples
+### Ciclo de Vida Simples
 
 É um ciclo básico focado no usuário e composto por quatro atividades interativas <strong>[²](#anexos) </strong>: identificar necessidades e definir requisitos, realizar o (re)design conceitual, construir uma versão interativa que simula o funcionamento da interface, e avaliar a solução proposta, ilustrado na figura 1. 
 Figura 1 - Ciclo de vida simples.
@@ -23,7 +23,7 @@ Fonte: BARBOSA (2010, p. 114)
 
 ---
 
-### 2.1.2 Ciclo de Vida em Estrela
+### Ciclo de Vida em Estrela
 
 Desenvolvido no início da década de 1990, possui seis atividades que estão todas interligadas pela avaliação contínua, que é a atividade central do modelo <strong>[³](#anexos) </strong>. É bastante flexível, pois o designer não precisa seguir uma sequência estrita e pode iniciar o processo a partir de qualquer atividade, dependendo do que já estiver disponível no início do projeto, exemplificado na figura 2. 
 
@@ -35,13 +35,13 @@ Fonte: BARBOSA (2010, p. 114)
 
 ---
 
-### 2.1.3 Engenharia de Usabilidade de Nielsen
+### Engenharia de Usabilidade de Nielsen
 
 Propõe um conjunto de dez atividades que devem ocorrer durante todo o ciclo de vida do produto, priorizando os estágios iniciais, antes mesmo de a interface ser projetada. Esse modelo envolve desde conhecer o usuário e analisar sistemas concorrentes até definir metas métricas de usabilidade (fatores de qualidade com valores aceitáveis e ideais) e realizar testes empíricos baseados em protótipos e designs paralelos [⁴](#anexos). 
 
 ---
 
-### 2.1.4 Engenharia de Usabilidade de Mayhew
+### Engenharia de Usabilidade de Mayhew
 
 Com uma visão holística, organiza o processo de design em três grandes fases iterativas: análise de requisitos, design/avaliação/desenvolvimento e instalação, ilustrado na figura 3. O seu diferencial é propor a concepção da solução de IHC em três níveis de detalhamento: primeiro o modelo conceitual, depois os padrões de design de tela, e por fim o design detalhado da interface. [⁵](#anexos)
 
@@ -51,13 +51,13 @@ Fonte: BARBOSA (2010, p. 120)
 
 ---
 
-### 2.1.5 Design Contextual
+### Design Contextual
 
 Orientado a compreender as necessidades dos usuários de forma profunda por meio de uma investigação no próprio ambiente real de trabalho. Utiliza diagramas de afinidade e vários modelos de trabalho (de fluxo, sequência, artefato, cultura e físico) para organizar, registrar e compartilhar o conhecimento adquirido com a equipe. [⁶](#anexos)
 
 ---
 
-### 2.1.6 Design Baseado em Cenários
+### Design Baseado em Cenários
 
 Utiliza cenários (histórias narrativas sobre pessoas executando atividades) como a representação fundamental ao longo de todo o processo de concepção, ilustrado na imagem 4. A equipe inicia com cenários que relatam os problemas atuais e os transforma iterativamente em cenários de atividade, cenários de informação e, por último, cenários de interação detalhados. [⁷](#anexos)
 
@@ -71,7 +71,7 @@ Fonte: BARBOSA (2010, p. 122)
 
 ---
 
-### 2.1.7 Design Dirigido por Objetivos
+### Design Dirigido por Objetivos
 
 Diferencia-se por tentar explorar o máximo das possibilidades tecnológicas para apoiar os objetivos finais dos usuários de forma inovadora e eficiente. O foco é não limitar o novo sistema apenas a replicar a mesma sequência de tarefas ou a maneira como o trabalho era feito no passado. O processo, ilustrado na figura 5, possui seis fases: pesquisar, modelar, definir requisitos, projetar, refinar e manter. [⁸](#anexos)
 
@@ -84,7 +84,7 @@ Fonte: BARBOSA (2010, p. 124)
 
 ---
 
-### 2.1.8 Design Centrado na Comunicação
+### Design Centrado na Comunicação
 
 Baseado na teoria da Engenharia Semiótica, ilustrada na imagem 6, compreende a interação como um processo de comunicação entre o designer e o usuário através da interface. O principal objetivo é produzir um sistema com alta comunicabilidade, onde a "metacomunicação" do designer seja clara, norteando os esforços de design por um conjunto de perguntas que buscam antecipar e responder às possíveis dúvidas típicas dos usuários durante o uso (como "O que é isto?" ou "Como faço isto?").  [⁹](#anexos)
 
@@ -97,7 +97,7 @@ Fonte: BARBOSA (2010, p. 126)
 
 ---
 
-## 2.2 ESCOLHA DO PROCESSO
+## ESCOLHA DO PROCESSO
 
 A escolha do ciclo de vida para a engenharia de usabilidade de Mayhew foi motivada principalmente pela falta de experiência prévia do grupo aliada à alta especificidade e estruturação deste modelo.
 
@@ -193,4 +193,4 @@ Fonte: BARBOSA (2010, p. 125-127)
 | 1.1 | 11/04/2026 | Adição do versionamento | [Rafael Melatti](https://github.com/Romm-0) | Equipe |
 | 1.2| 11/04/2026 | correção das imagens | [heyttor augusto](https://github.com/H3ytt0r62) | |
 | 1.3| 14/04/2026 | correção das referências  | [Yasmin Dayrell](https://github.com/YasminDayrell) | |
-
+| 1.4| 14/04/2026 | correção das imagens  | [lucas gabriel](https://github.com/lucaszg-g) | |
