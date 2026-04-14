@@ -12,9 +12,11 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 | ![logo github pages](../images/planejamento/ferramentas/github-pages-icon.png) {: style="height: 10px; width: 10px"} | Github pages | Deploy do MKdocs diretamente do repositório. |
 | ![logo sheets](../images/planejamento/ferramentas/google-docs-icon.png) {: style="height: 10px; width: 10px"} | Google Docs | Editor online de texto em grupo. |
 | ![logo sheets](../images/planejamento/ferramentas/google-sheets-icon.png) {: style="height: 10px; width: 10px"} | Google Sheets | Editor online de planilhas em grupo. |
+| ![logo teams](../images/planejamento/ferramentas/microsoft-teams-icon.png) {: style="height: 10px; width: 10px"} | Microsoft Teams | Plataforma de comunicação em grupo. |
 | ![logo miro](../images/planejamento/ferramentas/miro-icon.png) {: style="height: 10px; width: 10px"} | Miro | Espaço de trabalho online em grupo. |
 | ![logo mkdocs](../images/planejamento/ferramentas/mkdocs-icon.png) {: style="height: 10px; width: 10px"} | MKdocs | Criação de páginas estáticas. |
 | ![logo obs](../images/planejamento/ferramentas/obs-icon.png) {: style="height: 10px; width: 10px"} | OBS | Software para gravação das reuniões. |
+| ![logo trello](../images/planejamento/ferramentas/trello-icon.png) {: style="height: 10px; width: 10px"} | Trello | Ferramenta de gestão de projetos e tarefas utilizando Kanban. |
 | ![logo vscode](../images/planejamento/ferramentas/vscode-icon.png) {: style="height: 10px; width: 10px"} | Vscode | Editor de texto para criação e manutenção das páginas estáticas. |
 | ![logo whatsapp](../images/planejamento/ferramentas/whatsapp-icon.png) {: style="height: 10px; width: 10px"} | Whatsapp | Comunicação rápida entre os membros do grupo. |
 | ![logo whatsapp](../images/planejamento/ferramentas/when2meet-icon.png) {: style="height: 10px; width: 10px"} | When2meet | Ferramenta para organizar horários disponíveis dos membros da equipe através de um heatmap. |
@@ -29,9 +31,11 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 - [GitHub Pages](https://pages.github.com/)
 - [Google Docs](https://workspace.google.com/intl/pt-BR/products/docs/)
 - [Google Sheets](https://workspace.google.com/intl/pt-BR/products/sheets/)
+- [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in)
 - [Miro](https://miro.com/pt/)
 - [MKdocs](https://www.mkdocs.org/)
 - [OBS](https://obsproject.com/)
+- [Trello](https://trello.com/pt-BR)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Whatsapp](https://www.whatsapp.com/)
 - [When2meet](https://www.when2meet.com/)
@@ -44,3 +48,5 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 | 1.0 | 09/04/2026 | Criação da página de ferramentas | [Thiago Gomes](https://github.com/thgomxs) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
 | 1.1 | 11/04/2026 | Adição da ferramenta When2meet | [Thiago Gomes](https://github.com/thgomxs) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
 | 1.2 | 11/04/2026 | Correção do versionamento | [Rafael Melatti](https://github.com/Romm-0) | [Giovanna Aguiar](https://github.com/giovannabrito19) |
+| 1.3 | 12/04/2026 | Adição da ferramenta Microsoft Teams | [Thiago Gomes](https://github.com/thgomxs) | [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.4 | 13/04/2026 | Adição da ferramenta Trello | [Thiago Gomes](https://github.com/thgomxs) | [Lucas Gabriel](https://github.com/lucaszg-g) |

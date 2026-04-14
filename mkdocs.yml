@@ -49,13 +49,15 @@ nav:
     - Processo de design: Planejamento/Processo_de_design.md
     - Agredecimentos: Planejamento/agradecimentos.md
 
-  - Avaliações:
-    - Avaliação 1: Avaliações/grupo_1/Avaliação.md
-    - Avaliação +1: Avaliações/grupo +1/exemplo.md
+  - Inspeções:
+    - Inspeção 1: inspecoes/grupo_1/avaliacao_1.md
+    - Inspeção Grupo+1: inspecoes/grupo_+1/avaliacao_1_+1.md
+    - Modelo da Lista de Verificação: inspecoes/lista_verificacao.md
 
   - Atas:
-    - Ata 1: atas/ata1.md
-    - Modelo de Ata: atas/atagoverno.md
+    - Ata 1: atas/ata_1.md
+    - Ata 2: atas/ata_2.md
+    - Modelo de Ata: atas/ata_governo.md
 
   - Analise de requisitos:
     - Analise de requisitos: analise de requisitos/exemplo.md
@@ -67,6 +69,7 @@ nav:
     - Design: Design-avaliação-desenvolvimento/exemplo.md
 
   - Reuniões:
-    - Reunião 1: Reuniões/reuniao1.md
+    - Reunião 1: reunioes/reuniao_1.md
+    - Reunião 2: reunioes/reuniao_2.md
 
   
