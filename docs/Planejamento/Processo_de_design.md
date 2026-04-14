@@ -189,8 +189,9 @@ Fonte: BARBOSA (2010, p. 125-127)
 
 |Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | -----| ------| ----------| -------------| ---------------|
-| 1.0 | 11/04/2026| Iniciação do documento | [lucas gabriel](https://github.com/lucaszg-g) |  |
-| 1.1 | 11/04/2026 | Adição do versionamento | [Rafael Melatti](https://github.com/Romm-0) | Equipe |
-| 1.2| 11/04/2026 | correção das imagens | [heyttor augusto](https://github.com/H3ytt0r62) | |
-| 1.3| 14/04/2026 | correção das referências  | [Yasmin Dayrell](https://github.com/YasminDayrell) | |
-| 1.4| 14/04/2026 | correção das imagens  | [lucas gabriel](https://github.com/lucaszg-g) | |
+| 1.0 | 11/04/2026| Iniciação do documento | [Lucas gabriel](https://github.com/lucaszg-g) | - |
+| 1.1 | 11/04/2026 | Adição do versionamento | [Rafael Melatti](https://github.com/Romm-0) | [Giovanna](https://github.com/giovannabrito19), [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell) |
+| 1.2 | 11/04/2026 | Correção das imagens | [Heyttor augusto](https://github.com/H3ytt0r62) | - |
+| 1.3 | 14/04/2026 | Correção das referências  | [Yasmin Dayrell](https://github.com/YasminDayrell) | - |
+| 1.4 | 14/04/2026 | Correção das imagens  | [Lucas gabriel](https://github.com/lucaszg-g) | - |
+| 1.5 | 14/04/2026 | Mudança de "equipe" para a lista dos membros | [Rafael Melatti](https://github.com/Romm-0) | - |
