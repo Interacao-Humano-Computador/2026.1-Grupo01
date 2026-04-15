@@ -132,5 +132,6 @@ O site escolhido pelo grupo para o desenvolvimento do projeto da disciplina foi 
 | Versão | Data       | Descrição                                     | Autor(es/as)       | Revisor(es/as)     |
 |--------|------------|--------------------------------------------------------|------------------|------------------|
 | 1.0   | 10/04/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62)    | [Giovanna Aguiar](https://github.com/giovannabrito19)  |
-| 1.1   | 11/04/2026 | Correção de inconsistências presentes no texto| [Giovanna Aguiar](https://github.com/giovannabrito19)| Equipe  |
+| 1.1   | 11/04/2026 | Correção de inconsistências presentes no texto| [Giovanna Aguiar](https://github.com/giovannabrito19)| [Giovanna](https://github.com/giovannabrito19), [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell)  |
+| 1.2 | 14/04/2026 | Mudança de "equipe" para a lista dos membros | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 

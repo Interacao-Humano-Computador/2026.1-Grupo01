@@ -14,13 +14,6 @@ Por meio do site, os usuários podem, ao **acessar sua conta GOV**, acessar info
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/giovannabrito19">
-        <img src="https://avatars.githubusercontent.com/u/175221432?v=4" width="100px" alt="Giovanna aguiar"/>
-        <br />
-        <sub><b>Giovanna Aguiar</b></sub>
-      </a>
-    </td>
      <td align="center">
       <a href="https://github.com/H3ytt0r62">
         <img src="https://github.com/H3ytt0r62.png" width="100px" alt="Heyttor Augusto"/>
