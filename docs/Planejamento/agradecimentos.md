@@ -16,3 +16,4 @@ Por auxiliarem o grupo com correções de gramática e correções de códigos M
 | -----| ------| ----------| -------------| ---------------|
 | 1.0 | 11/04/2026 | Inicialização do artefato | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Giovana Aguiar](https://github.com/giovannabrito19)  |
 | 1.1 | 14/04/2026 | Correção no versionamento e no texto | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.2 | 15/04/2026 | Correção de erros ortográficos | [João Morais](https://github.com/Blazemorales) | - |
