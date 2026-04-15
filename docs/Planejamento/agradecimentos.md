@@ -1,5 +1,5 @@
 
-
+# Agradecimentos
 
 Como foi solicitado pelo professor da matéria, o grupo 1 gostaria de agradecer formalmente as IAs generativas:
 
