@@ -1,5 +1,7 @@
 # Modelo de Ata de Reunião
 
+Este modelo foi utilizado pelo grupo nas primeiras 3 atas do grupo, até ser substituído pelo modelo disponível na plataforma Aprender3.
+
 ---
 
 ## Modelo

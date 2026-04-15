@@ -93,7 +93,7 @@ Sempre o último tópico do arquivo, o versionamento irá seguir o seguinte mode
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 |--------|------|-----------|--------------|----------------|
-| 1.0 | 11/04/2026 | Iniciação do documento | fulano de tal (ambos, autor e revisor precisam ter seus nomes clicáveis) | [Revisor de tal] |
+| 1.0 | 11/04/2026 | Iniciação do documento | fulano de tal (ambos, autor e revisor precisam ter seus nomes clicáveis, coloque apenas o primeiro nome para pouparmos espaço) | [Revisor de tal] |
 
 ---
 
