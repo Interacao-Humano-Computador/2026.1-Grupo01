@@ -1,5 +1,3 @@
-## ATA MODELO DISPONIBILIZADA NO APRENDER PELO PROFESSOR
-
 # Ata de Reunião
 
 ## 1. Identificação
@@ -23,12 +21,12 @@
 
 | Nº | Nome | Presente |
 |----|------|----------|
-| 1  | Heyttor Augusto | Sim |  
-| 2  | João Pedro | Sim |                
-| 3  | Lucas Gabriel | Sim |                
-| 4  | Rafael Oliveira | Sim |      
-| 5  | Thiago Gomes | Sim |
-| 6  | Yasmin Dayrell | Sim |          
+| 1 | [Heyttor Augusto de Assis Silva](https://github.com/H3ytt0r62) | Sim |
+| 2 | [João Pedro de Morais Cunha](https://github.com/Blazemorales) | Sim |
+| 3 | [Lucas Gabriel Gomes Aguiar](https://github.com/lucaszg-g) | Sim |
+| 4 | [Rafael Oliveira Montagner Melatti](https://github.com/Romm-0) | Sim |
+| 5 | [Thiago Gomes Pereira de Abreu](https://github.com/thgomxs) | Sim |
+| 6 | [Yasmin Dayrell Albuquerque](https://github.com/YasminDayrell) | Sim |         
 
 ---
 
@@ -89,12 +87,12 @@ A próxima reunião desse mesmo assunto irá acontecer no dia 05/05/26, após a 
 
 | Nº | Compromisso | Responsável | Data |
 |----|-------------|-------------|------|
-| 1  | Colocar um hyperlink da página de atas para a página de reuniões e de reuniões para a página de atas | Rafael | 17/04/2026 |
-| 2  | Separar as ferramentas por etapas do trabalho | Thiago | 17/04/2026 |
-| 3  | Conferir se todas as imagens do trabalho estão seguindo o padrão ABNT | Yasmin | 17/04/2026 |
-| 4  | Formular um arquivo de padronização | Heyttor e Lucas | 17/04/2026 |
-|  5  | Reformular o calendário para que todos participem de todas as etapas e não só algumas pessoas | Rafael | 17/04/2026 |
-| 6  | Colocar as tabelas de contribuição nos artefatos já feitos | Heyttor | 17/04/2026 |
+| 1 | Colocar um hyperlink da página de atas para a página de reuniões e de reuniões para a página de atas | [Rafael](https://github.com/Romm-0) | 17/04/2026 |
+| 2 | Separar as ferramentas por etapas do trabalho | [Thiago](https://github.com/thgomxs) | 17/04/2026 |
+| 3 | Conferir se todas as imagens do trabalho estão seguindo o padrão ABNT | [Yasmim](https://github.com/YasminDayrell) | 17/04/2026 |
+| 4 | Formular um arquivo de padronização | [Heyttor](https://github.com/H3ytt0r62) e [Lucas](https://github.com/lucaszg-g) | 17/04/2026 |
+| 5 | Reformular o calendário para que todos participem de todas as etapas e não só algumas pessoas | [Rafael](https://github.com/Romm-0) | 17/04/2026 |
+| 6 | Colocar as tabelas de contribuição nos artefatos já feitos | [Heyttor](https://github.com/H3ytt0r62) | 17/04/2026 |
 
 ---
 
@@ -103,3 +101,4 @@ A próxima reunião desse mesmo assunto irá acontecer no dia 05/05/26, após a 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 |--------|------|-----------|--------------|----------------|
 | 1.0 | 15/04/2026 | Inicio da ata | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.1 | 15/04/2026 | Adição de links para o github de cada integrante quanto os seus nomes são citados | [Rafael Melatti](https://github.com/Romm-0) |
