@@ -1,74 +1,104 @@
-## 1 Padronização dos artefatos da matéria
+Esse arquivo serve de referência para o grupo de como fazer os artefatos, segundo as normas da ABNT. Nesse artefato serão abordadas a maneira correta e padronizada que o grupo precisa seguir para:
 
-Esse arquivo serve para servir de referencia para o grupo de como fazer os artefatos, segundo as normas da ABNT, nesse artefato serão abordadas, a maneira correta e padronizada que grupo precisa fazer de:
+- Citações  
+- Anexos  
+- Títulos  
+- Subtítulos  
+- Referências  
+- Tabelas  
+- Imagens  
+- Versionamento  
 
-- Citações
-- Anexos
-- Titulos 
-- Subtitulos
-- Referencias 
-- Tabelas
-- imagens
-- Versionamento
+As normas seguidas pelo grupo serão:
 
+- NBR 14724  
+- NBR 6022  
+- NBR 6024  
+- NBR 10520 adaptada pelo grupo, pois na referenciação haverá também a inclusão da página  
 
-##  TITULO SEMPRE EM MAIUSCULO
+---
 
-## SUBTITULO TAMBEM EM MAIUSCULO
+## **1 TÍTULO SEMPRE EM MAIÚSCULO E NEGRITO**
 
-##  Pequenos titulos escritos normalmente
+## 1.1 SUBTÍTULO TAMBÉM EM MAIÚSCULO, MAS SEM NEGRITO
 
-Frase sempre iniciando com letra maiscula, para referenciar imagens sempre é preciso chama-las no texto, como por exemplo  "onserve a Figura 1 abaixo:" 
+## **1.1.1 Pequenos títulos escritos normalmente e em negrito**
 
-(nome da figura sempre acima da imagem) Figura 1 - figura de exemplo para o template (sempre nomeie as imagens e sempre começe com a maisculo tambem)
+Frase sempre iniciando com letra maiúscula. Para referenciar imagens, é preciso sempre chamá-las no texto, como por exemplo: "conforme a Figura 1 abaixo:"  
 
-![exemplo](/docs/images/logo_cac.jpeg)
+**(nome da figura sempre acima da imagem)** Figura 1 - Figura de exemplo para o template **(sempre nomeie as imagens e sempre comece com letra maiúscula também)**  
 
-(fonte sempre abaixo da imagem) Fonte: [ se for de nossa autoria, coloque o nome de quem fez para manter a rastreabilidade, se for de outra fonte use o referenciamento normal da ABNT que tambem será exemplificado nesse documento]
+![exemplo](../docs/images/planejamento/site%20escolhido/reclamacao.png)
 
-Agora para tabelas o padrão é bem parecido com as citações de imagens, tabelas precisa ser chamadas dentro do texto, precisam ter um titulo e uma fonte, se for uma tabela autoral do propio grupo, creditaro membro que fez a tabela, se for uma tabela de outra fonte creditar a fonte, como demonstrado na Tabela 1:
+**(fonte sempre abaixo da imagem)** Fonte: [se for de nossa autoria, coloque o nome de quem fez para manter a rastreabilidade; se for de outra fonte, use o referenciamento ABNT, que também será exemplificado neste documento]
 
-Tabela 1 - exemplo de tabela para o templeta
+Agora, para tabelas, o padrão é bem parecido com as citações de imagens. As tabelas precisam ser chamadas dentro do texto, precisam ter um título e uma fonte. Se for uma tabela autoral do próprio grupo, creditar o membro que fez a tabela; se for uma tabela de outra fonte, creditar a fonte, como demonstrado na Tabela 1:
+
+Tabela 1 - Exemplo de tabela para o template  
 
 | exemplo | exemplo.1 | autor |
 |--------|------------|-----------|
-|aaaaaaaaa|aaaaaaaaaa| (sempre creditar com o nome lincavel para o git hub do autor, se caso o autor for um estudante) fulano de tal |
+| aaaaaaaaa | aaaaaaaaaa | **(sempre creditar com o nome linkável para o GitHub do autor, caso o autor seja um estudante)** [fulano de tal](lugar_nenhum) |
 
-Fonte: Fonte de exemplo, 2026
+Fonte: Fonte de exemplo, 2026  
 
-## Mantenha o padrão de titulos!
+---
 
-## Citações
+## 1.2 MANTENHA O PADRÃO DE TÍTULOS
 
+## **1.2.1 Citações**
 
-Citações diretas sendo elas curtas(3 linhas no visual studio Code) ou longas, serão feitas dessa maneira
-"entre aspas com um referencia no final, pois é uma informação que foi tirada diretamente de algum lugar"(SILVA, 2026, pag: 67).
+Citações diretas, sendo elas curtas (3 linhas no Visual Studio Code) ou longas, serão feitas da seguinte maneira:  
+"entre aspas com uma referência no final, pois é uma informação que foi tirada diretamente de algum lugar" (SILVA, 2026, pag: 67).
 
-Ja citações inderetas curtas ou longas devem conter apeanas a referencia sem as aspas, exemplo: Segundo SILVA (2026), as aspas não devem ser mantidas pois é uma citação longa
+Já citações indiretas, curtas ou longas, devem conter apenas a referência, sem aspas. Exemplo: Segundo SILVA (2026), as aspas não devem ser mantidas, pois é uma citação longa.  
 
+---
 
-## REFERENCIAS
+## **2 REFERÊNCIAS**
 
-informações importantes:
+Informações importantes:
 
-- Ordem alfabatica pelo sobrenome do autor
-- SOBRENOME, Nome. **Título em destaque**: subtítulo. Edição. Local: Editora, ano.
+- Ordem alfabética pelo sobrenome do autor  
+- SOBRENOME, Nome. **Título em destaque**: subtítulo. Edição. Local: Editora, ano.  
 
-## ANEXOS
+---
 
-Sempre abaixo das referencias, Anexos serão feitos da seguinte maneira, Todos os anexos precisam ser maiusculos por exemplo:
+## **3 ANEXOS**
 
-- ANEXO 1
-- ANEXO 2
-- ANEXO 3
+Sempre abaixo das referências, os anexos serão feitos da seguinte maneira. Todos os anexos precisam ser maiúsculos, por exemplo:
 
-Eles precisam ser referenciados no texto, como por exemplo " A informação pode ser observada no **ANEXO 1** "
+- ANEXO 1  
+- ANEXO 2  
+- ANEXO 3  
 
+Eles precisam ser referenciados no texto, como por exemplo: "A informação pode ser observada no **ANEXO 1**".  
 
-## VERSIONAMENTO
+---
 
-Sempre o ultimo topuco do arquivo, o versonamento irá seguir o seguinte modelo:
+## **5 TABELA DE CONTRIBUIÇÃO**
 
-|Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
-| -----| ------| ----------| -------------| ---------------|
-| 1.0 | 11/04/2026| Iniciação do documento | fulano de tal (ambos, autor  e revisor, precisam ter seus nomes clicaveis) | [Revisor de tal] |
+A tabela de contribuição sempre deve estar acima do versionamento, ela deve conter todo o trabalho feito por cada membro. como pode ser visto na Tabela 2:
+
+Tabela 2 - Tabela de contribuição
+
+|Autor | Tarefas Realizadas | Data |
+|-----|--------------------|-------|
+|funalo de tal| inicializou o documento e fez os topicos A,B e C| 21/0x/202x|
+
+--- 
+## **4 EXEMPLO DE VERSIONAMENTO**
+
+Sempre o último tópico do arquivo, o versionamento irá seguir o seguinte modelo:
+
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+|--------|------|-----------|--------------|----------------|
+| 1.0 | 11/04/2026 | Iniciação do documento | fulano de tal (ambos, autor e revisor precisam ter seus nomes clicáveis, coloque apenas o primeiro nome para pouparmos espaço) | [Revisor de tal] |
+
+---
+
+## **Versionamento**
+
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+|--------|------|-----------|--------------|----------------|
+| 1.0 | 15/04/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Lucas Gabriel](https://github.com/lucaszg-g) |

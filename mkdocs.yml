@@ -58,7 +58,9 @@ nav:
     - Ata 1: atas/ata_1.md
     - Ata 2: atas/ata_2.md
     - Ata 3: atas/ata_3.md
-    - Modelo de Ata: atas/ata_governo.md
+    - Ata 4: atas/ata_4.md
+    - Modelo antigo de Ata: atas/ata_governo.md
+    - Modelo novo de Ata: atas/ata_modelo_aprender.md
 
   - Analise de requisitos:
     - Analise de requisitos: analise de requisitos/exemplo.md
